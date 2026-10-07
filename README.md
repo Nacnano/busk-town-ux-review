@@ -8,7 +8,7 @@ Thank you for the site. The charts are a pleasure to play from: the chords sit w
 
 The chart itself is easy to read. On the phone, a large ad sits above it, so the title and the first chords begin further down. When a friend sends me a link during practice, it would help if the song were the first thing on the screen. The ad could live a little further down the page.
 
-<img src="images/recheck-performance-01-phone-song-top.jpg" alt="Phone view of รอ with an advertisement above the title and chords" width="280">
+<img src="images/highlights/01-ad.jpg" alt="The advertisement above รอ is outlined" width="280">
 
 ## Some lines run past the edge of the phone
 
@@ -16,15 +16,15 @@ Sliding a line sideways does bring the rest into view. I just have to remember t
 
 In *รอ*, the last chord of the Pre-Hook, Bsus4, starts past the edge.
 
-<img src="images/recheck-performance-05-masha-default-clipped-prehook.jpg" alt="Pre-Hook of รอ with the last Bsus4 past the right edge" width="280">
+<img src="images/highlights/02-chord.jpg" alt="The cut-off Bsus4 at the end of each Pre-Hook is outlined" width="280">
 
 The words do this too. On most of the songs I opened, at least one lyric line continues off the screen. In *(There's) No Gettin' Over Me*, Hook 2 ends mid-word: "I'll be the book that y…"
 
-<img src="images/lyric-no-gettin-over-me.jpg" alt="No Gettin' Over Me with lyric lines cut off at the right edge" width="280">
+<img src="images/highlights/03-lyrics-en.jpg" alt="Cut-off lyric endings in No Gettin' Over Me are outlined" width="280">
 
 In *(เก็บใจใส่) กุญแจ*, the verse and the hook do the same. "อยากจะฟังนัก บอกว่ารักฉัน…" stops around "พูดมาล".
 
-<img src="images/lyric-kunjae.jpg" alt="กุญแจ with Thai lyric lines cut off at the right edge" width="280">
+<img src="images/highlights/04-lyrics-th.jpg" alt="Cut-off lyric endings in กุญแจ are outlined" width="280">
 
 I saw the same thing on songs such as *1001 (You're Lovely)*, *11 นาฬิกา*, and *200%*. This was at the default text size, on songs from the front page.
 
@@ -32,23 +32,23 @@ I saw the same thing on songs such as *1001 (You're Lovely)*, *11 นาฬิ�
 
 The section menu is handy for jumping around a long song. While I was reading *รอ*, the floating "Bridge" label sat on the last chord and the end of the lyric. If it stayed up with the other controls, the chart underneath would stay clear.
 
-<img src="images/recheck-performance-07-section-picker-overlap.jpg" alt="The Bridge menu resting on a chord and lyric" width="280">
+<img src="images/highlights/05-bridge.jpg" alt="The Bridge menu is outlined where it covers a chord and lyric" width="280">
 
 ## A Pause label next to Autoscroll
 
 Autoscroll is a nice touch when both hands are busy. Once it starts, the button becomes 60%, 100% and 150%. Tapping the speed that's already selected does pause the page. I found that by trying it. A Pause label beside the speeds would make it obvious when the singer stops for a moment.
 
-<img src="images/recheck-performance-09-autoscroll-active.jpg" alt="Autoscroll showing 60, 100 and 150 percent" width="280">
+<img src="images/highlights/06-autoscroll.jpg" alt="The 60, 100 and 150 percent speeds are outlined" width="280">
 
 ## Finding an artist by either name
 
 Search is quick when I type the name the way it's listed. A few artists I know by another spelling didn't come up. `carabao` was empty, while `คาราบาว` found the artist and the songs. The other way around as well: `นิวจิ๋ว` was empty, and `NEW JIEW` worked. I nearly assumed those songs weren't there. Matching the Thai name and the English name would help.
 
-<img src="images/recheck-journeys-01-carabao-alias-fails.jpg" alt="Search for carabao returns no songs" width="240"> <img src="images/recheck-journeys-02-carabao-canonical-works.jpg" alt="Search for คาราบาว finds the artist and songs" width="240">
+<img src="images/highlights/07-carabao-empty.jpg" alt="The empty result for carabao is outlined" width="240"> <img src="images/highlights/08-carabao-found.jpg" alt="The results for คาราบาว are outlined" width="240">
 
 `carabao` is empty. `คาราบาว` works.
 
-<img src="images/recheck-journeys-03-newjiew-thai-alias-fails.jpg" alt="Search for นิวจิ๋ว returns no songs" width="240"> <img src="images/recheck-journeys-04-newjiew-canonical-works.jpg" alt="Search for NEW JIEW finds the artist and songs" width="240">
+<img src="images/highlights/09-newjiew-empty.jpg" alt="The empty result for นิวจิ๋ว is outlined" width="240"> <img src="images/highlights/10-newjiew-found.jpg" alt="The results for NEW JIEW are outlined" width="240">
 
 `นิวจิ๋ว` is empty. `NEW JIEW` works.
 
@@ -56,7 +56,7 @@ Search is quick when I type the name the way it's listed. A few artists I know b
 
 On NEW JIEW I searched `ไม่รัก`, sorted by Date Added, opened a song, and pressed Back. The search had cleared, and the list was every song again, sorted by title. If the search and the sort could stay as they were, comparing songs for a set would be a little easier.
 
-<img src="images/recheck-journeys-06-before-song-query-and-date-added.jpg" alt="NEW JIEW songs filtered by ไม่รัก and sorted by Date Added" width="240"> <img src="images/recheck-journeys-07-after-back-query-lost-title-sort.jpg" alt="After Back, the search is cleared and the list is sorted by Title" width="240">
+<img src="images/highlights/11-search-kept.jpg" alt="The ไม่รัก search and Date Added sort are outlined" width="240"> <img src="images/highlights/12-search-lost.jpg" alt="After Back, the cleared search and Title sort are outlined" width="240">
 
 ## The three that would help me most
 
