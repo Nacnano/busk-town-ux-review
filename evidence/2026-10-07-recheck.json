@@ -1,0 +1,695 @@
+[
+  {
+    "image": "images/recheck-performance-01-phone-song-top.jpg",
+    "date": "2026-10-07",
+    "url": "https://busk.town/songs/%E0%B8%A3%E0%B8%AD-masha",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "steps": "Open song link at393×852, no scroll. Returning browser profile has already dismissed first-run introduction.",
+    "sha256": "bc1fdf5bb8f899bdf5a174a60607d5e968fbfcaea810bfe07e75e607dd603279",
+    "settings": {
+      "key": "E (Ori)",
+      "layout": "Full",
+      "chords": "True",
+      "font": "default",
+      "metronome": "off",
+      "autoscroll": "off"
+    },
+    "scroll": {
+      "scrollX": 0,
+      "scrollY": 0
+    }
+  },
+  {
+    "image": "images/recheck-performance-02-phone-tools-full.jpg",
+    "date": "2026-10-07",
+    "url": "https://busk.town/songs/%E0%B8%A3%E0%B8%AD-masha",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "steps": "From01-phone-song-top, tap unlabelled slider icon. Full/True is selected.",
+    "sha256": "0e041cb87139cfbe66fb24174f6d1d6267aa03bdd00992ded6fc0d98aeb75505",
+    "settings": {
+      "key": "E (Ori)",
+      "layout": "Full",
+      "chords": "True",
+      "font": "default",
+      "sectionName": "on"
+    },
+    "scroll": {
+      "scrollX": 0,
+      "scrollY": 0
+    }
+  },
+  {
+    "image": "images/recheck-performance-03-section-switch-works-off.jpg",
+    "date": "2026-10-07",
+    "url": "https://busk.town/songs/%E0%B8%A3%E0%B8%AD-masha",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "steps": "In Full/True tools tap Section name toggle once; checked state changes from true to false, song headings disappear.",
+    "sha256": "1d4bf277963108f46f7978c8ff133e3f7f53f5711df3074fa13bc2b1e3188a8a",
+    "settings": {
+      "key": "E (Ori)",
+      "layout": "Full",
+      "chords": "True",
+      "font": "default",
+      "sectionName": "off"
+    },
+    "extra": {
+      "pointerToggleWorked": true
+    },
+    "scroll": {
+      "scrollX": 0,
+      "scrollY": 0
+    }
+  },
+  {
+    "image": "images/recheck-performance-04-section-switch-easy-works.jpg",
+    "date": "2026-10-07",
+    "url": "https://busk.town/songs/%E0%B8%A3%E0%B8%AD-masha",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "steps": "After restoring Section name on, select Easy with Full layout; tap Section name again. Switch turns off and headings disappear.",
+    "sha256": "9a914a2f38234529fb5c1acc99ef9607382ac3de8698a7110eac6ff79a558973",
+    "settings": {
+      "key": "E (Ori)",
+      "layout": "Full",
+      "chords": "Easy",
+      "font": "default",
+      "sectionName": "off"
+    },
+    "extra": {
+      "pointerToggleWorked": true
+    },
+    "scroll": {
+      "scrollX": 0,
+      "scrollY": 0
+    }
+  },
+  {
+    "image": "images/recheck-performance-05-masha-default-clipped-prehook.jpg",
+    "date": "2026-10-07",
+    "url": "https://busk.town/songs/%E0%B8%A3%E0%B8%AD-masha",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "steps": "Reset display options to defaults. Close Tools. Scroll down0.6 screen to read first Pre-Hook line.",
+    "sha256": "1872aef8daca215398976f9d8ed4dbd122552726ab1fa747a74f01dcc49b6371",
+    "settings": {
+      "key": "E (Ori)",
+      "layout": "Full",
+      "chords": "True",
+      "font": "default",
+      "sectionName": "on",
+      "autoscroll": "off"
+    },
+    "extra": {
+      "documentWidth": 393,
+      "height": 852,
+      "lines": [
+        {
+          "ancestors": [
+            {
+              "class": "",
+              "clientWidth": 353,
+              "scrollLeft": 0,
+              "scrollWidth": 384,
+              "tag": "P"
+            },
+            {
+              "class": "",
+              "clientWidth": 353,
+              "scrollLeft": 0,
+              "scrollWidth": 384,
+              "tag": "DIV"
+            },
+            {
+              "class": "mx-5 w-[calc(100vw-40px)] md:mx-[60px] md:w-[calc(100vw-120px)] md:max-w-[1024px] min-[1144px]:mx-auto min-[1144px]:w-[1024px]",
+              "clientWidth": 353,
+              "scrollLeft": 0,
+              "scrollWidth": 384,
+              "tag": "DIV"
+            },
+            {
+              "class": "text-song-primary-3 md:text-song-primary-3-desktop w-max min-w-full max-w-2xl select-text font-bj text-neutral-800 selection:bg-mt-700 selection:text-neutral-0 dark:text-neutral-100 dark:selection:bg-mt-dark-700 sm:w-auto md:max-w-none",
+              "clientWidth": 393,
+              "scrollLeft": 0,
+              "scrollWidth": 404,
+              "tag": "MAIN"
+            },
+            {
+              "class": "dark",
+              "clientWidth": 393,
+              "scrollLeft": 0,
+              "scrollWidth": 393,
+              "tag": "HTML"
+            }
+          ],
+          "clientWidth": 353,
+          "h": 13.1953125,
+          "scrollLeft": 0,
+          "scrollWidth": 384,
+          "text": "| F#m7           |  E/G#               |  Asus2                     | Bsus4 | Bsus4 |",
+          "w": 353,
+          "x": 20,
+          "y": 323.453125
+        },
+        {
+          "ancestors": [
+            {
+              "class": "",
+              "clientWidth": 353,
+              "scrollLeft": 0,
+              "scrollWidth": 384,
+              "tag": "P"
+            },
+            {
+              "class": "",
+              "clientWidth": 353,
+              "scrollLeft": 0,
+              "scrollWidth": 384,
+              "tag": "DIV"
+            },
+            {
+              "class": "mx-5 w-[calc(100vw-40px)] md:mx-[60px] md:w-[calc(100vw-120px)] md:max-w-[1024px] min-[1144px]:mx-auto min-[1144px]:w-[1024px]",
+              "clientWidth": 353,
+              "scrollLeft": 0,
+              "scrollWidth": 384,
+              "tag": "DIV"
+            },
+            {
+              "class": "text-song-primary-3 md:text-song-primary-3-desktop w-max min-w-full max-w-2xl select-text font-bj text-neutral-800 selection:bg-mt-700 selection:text-neutral-0 dark:text-neutral-100 dark:selection:bg-mt-dark-700 sm:w-auto md:max-w-none",
+              "clientWidth": 393,
+              "scrollLeft": 0,
+              "scrollWidth": 404,
+              "tag": "MAIN"
+            },
+            {
+              "class": "dark",
+              "clientWidth": 393,
+              "scrollLeft": 0,
+              "scrollWidth": 393,
+              "tag": "HTML"
+            }
+          ],
+          "clientWidth": 353,
+          "h": 13.1953125,
+          "scrollLeft": 0,
+          "scrollWidth": 384,
+          "text": "| F#m7           |  E/G#               |  Asus2                     | Bsus4 | Bsus4 |",
+          "w": 353,
+          "x": 20,
+          "y": 764.6171875
+        }
+      ],
+      "scrollX": 0,
+      "width": 393
+    },
+    "scroll": {
+      "scrollX": 0,
+      "scrollY": 511
+    }
+  },
+  {
+    "image": "images/recheck-performance-06-prehook-after-horizontal-scroll.jpg",
+    "date": "2026-10-07",
+    "url": "https://busk.town/songs/%E0%B8%A3%E0%B8%AD-masha",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "steps": "From05, attempt a horizontal right scroll over the first Pre-Hook chord line. The song outer overflow-x-auto container moves horizontally, revealing the final Bsus4.",
+    "sha256": "4cc5acaa2ab4bbb74b8262a483f84b06ef8a23cd991aba6c62f9bd0794123864",
+    "settings": {
+      "key": "E (Ori)",
+      "layout": "Full",
+      "chords": "True",
+      "font": "default",
+      "sectionName": "on"
+    },
+    "extra": {
+      "height": 852,
+      "lines": [
+        {
+          "clientWidth": 353,
+          "parentScrollLeft": 0,
+          "scrollLeft": 0,
+          "scrollWidth": 384,
+          "x": 9.5,
+          "y": 323.453125
+        },
+        {
+          "clientWidth": 353,
+          "parentScrollLeft": 0,
+          "scrollLeft": 0,
+          "scrollWidth": 384,
+          "x": 9.5,
+          "y": 764.6171875
+        }
+      ],
+      "mainScrollLeft": 0,
+      "scrollX": 0,
+      "scrollY": 511,
+      "width": 393,
+      "recovery": {
+        "outerContainerClass": "overflow-x-auto pt-4",
+        "clientWidth": 393,
+        "scrollWidth": 404,
+        "scrollLeft": 10.5,
+        "lineXBefore": 20,
+        "lineXAfter": 9.5,
+        "windowScrollX": 0,
+        "finalChordRevealed": true
+      }
+    },
+    "scroll": {
+      "scrollX": 0,
+      "scrollY": 511
+    }
+  },
+  {
+    "image": "images/recheck-performance-07-section-picker-overlap.jpg",
+    "date": "2026-10-07",
+    "url": "https://busk.town/songs/%E0%B8%A3%E0%B8%AD-masha",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "steps": "Select Bridge in section picker; after jump settles, scroll up0.085 screen (about72px). Final Verse2 chord and lyric pass beneath fixed Bridge selector.",
+    "sha256": "c149071c21913f1de90fcefd1daf4158a37a096b254c091ea94eca2564366738",
+    "settings": {
+      "key": "E (Ori)",
+      "layout": "Full",
+      "chords": "True",
+      "font": "default",
+      "sectionName": "on",
+      "horizontalPan": 0
+    },
+    "extra": {
+      "badge": [
+        {
+          "h": 28,
+          "text": "Bridge",
+          "w": 82.546875,
+          "x": 290.453125,
+          "y": 76
+        }
+      ],
+      "height": 852,
+      "rows": [
+        {
+          "h": 13.1953125,
+          "text": "| Amaj7                  | G#m7                 | Amaj7          | G#m7 |",
+          "w": 353,
+          "x": 20,
+          "y": 77.0234375
+        },
+        {
+          "h": 20.3984375,
+          "text": "      วันวันหนึ่ง มันช่างดู เนิ่นนาน       กว่าวันแล้ววัน จะเลยไป",
+          "w": 353,
+          "x": 20,
+          "y": 90.21875
+        }
+      ],
+      "scrollY": 1106,
+      "width": 393
+    },
+    "scroll": {
+      "scrollX": 0,
+      "scrollY": 1106
+    }
+  },
+  {
+    "image": "images/recheck-performance-08-autoscroll-before.jpg",
+    "date": "2026-10-07",
+    "url": "https://busk.town/songs/%E0%B8%A3%E0%B8%AD-masha",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "steps": "At07 reading position before starting Autoscroll.",
+    "sha256": "c149071c21913f1de90fcefd1daf4158a37a096b254c091ea94eca2564366738",
+    "settings": {
+      "key": "E (Ori)",
+      "layout": "Full",
+      "chords": "True",
+      "font": "default",
+      "sectionName": "on",
+      "autoscroll": "off"
+    },
+    "scroll": {
+      "scrollX": 0,
+      "scrollY": 1106
+    }
+  },
+  {
+    "image": "images/recheck-performance-09-autoscroll-active.jpg",
+    "date": "2026-10-07",
+    "url": "https://busk.town/songs/%E0%B8%A3%E0%B8%AD-masha",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "steps": "Tap Autoscroll at08. Page moves; button is replaced by speed percentages and100% is highlighted. There is no Pause word/icon.",
+    "sha256": "25a08f6442e57cb407c2c3505693658da3e374c0278bf3ceef2bcf50d331694b",
+    "settings": {
+      "key": "E (Ori)",
+      "layout": "Full",
+      "chords": "True",
+      "font": "default",
+      "sectionName": "on",
+      "autoscroll": "on",
+      "speed": "100%"
+    },
+    "extra": {
+      "movingCapture": true
+    },
+    "scroll": {
+      "scrollX": 0,
+      "scrollY": 1165
+    }
+  },
+  {
+    "image": "images/recheck-performance-10-autoscroll-paused.jpg",
+    "date": "2026-10-07",
+    "url": "https://busk.town/songs/%E0%B8%A3%E0%B8%AD-masha",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "steps": "Tap highlighted100% in09; percentages disappear, Autoscroll label returns and vertical motion stops.",
+    "sha256": "be09a15d5690edb686b826dc013e394e2c8d4e8ea9d1752f789cea62e037c366",
+    "settings": {
+      "key": "E (Ori)",
+      "layout": "Full",
+      "chords": "True",
+      "font": "default",
+      "sectionName": "on",
+      "autoscroll": "off"
+    },
+    "extra": {
+      "pausedY": 1166
+    },
+    "scroll": {
+      "scrollX": 0,
+      "scrollY": 1166
+    }
+  },
+  {
+    "image": "images/recheck-performance-11-fsharpminor7-before-tap.jpg",
+    "date": "2026-10-07",
+    "url": "https://busk.town/songs/%E0%B8%A3%E0%B8%AD-masha",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "steps": "Original E/Full/True/default font, paused. The visible first chord of Pre-Hook is F#m7.",
+    "sha256": "be09a15d5690edb686b826dc013e394e2c8d4e8ea9d1752f789cea62e037c366",
+    "settings": {
+      "key": "E (Ori)",
+      "layout": "Full",
+      "chords": "True",
+      "font": "default",
+      "sectionName": "on",
+      "autoscroll": "off",
+      "targetChord": "F#m7"
+    },
+    "scroll": {
+      "scrollX": 0,
+      "scrollY": 1166
+    }
+  },
+  {
+    "image": "images/recheck-performance-12-fsharpminor7-after-tap.jpg",
+    "date": "2026-10-07",
+    "url": "https://busk.town/songs/%E0%B8%A3%E0%B8%AD-masha",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "steps": "Tap visible F#m7 at x44,y116 from11. The same chord/lyric page remains; no diagram or popup is shown.",
+    "sha256": "be09a15d5690edb686b826dc013e394e2c8d4e8ea9d1752f789cea62e037c366",
+    "settings": {
+      "key": "E (Ori)",
+      "layout": "Full",
+      "chords": "True",
+      "font": "default",
+      "sectionName": "on",
+      "autoscroll": "off",
+      "targetChord": "F#m7"
+    },
+    "extra": {
+      "dialogs": [],
+      "guide": [
+        {
+          "documentY": 4008.0078125,
+          "y": 2842.0078125
+        }
+      ],
+      "height": 852,
+      "row": [
+        {
+          "h": 13.1953125,
+          "text": "| F#m7           |  E/G#               |  Asus2                     | Bsus4 | Bsus4 |",
+          "w": 353,
+          "x": 20,
+          "y": 109.6171875
+        }
+      ],
+      "scrollY": 1166,
+      "width": 393
+    },
+    "scroll": {
+      "scrollX": 0,
+      "scrollY": 1166
+    }
+  },
+  {
+    "image": "images/recheck-performance-13-fsharpminor7-guide-same-key.jpg",
+    "date": "2026-10-07",
+    "url": "https://busk.town/songs/%E0%B8%A3%E0%B8%AD-masha",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "steps": "From12 unchanged F#m7 tap, scroll down3.2screens to existing guitar-chord guide. OriginalE/Full/True/default settings remain unchanged; F#m7 diagram is visible.",
+    "sha256": "b119a02a214abc36819c1db58d49c93948b12809816a254b2e0bf703fc7da13c",
+    "settings": {
+      "key": "E (Ori)",
+      "layout": "Full",
+      "chords": "True",
+      "font": "default",
+      "sectionName": "on",
+      "autoscroll": "off",
+      "targetChord": "F#m7"
+    },
+    "extra": {
+      "chordLabels": [
+        {
+          "h": 15.6015625,
+          "text": "F#m7",
+          "w": 33.6640625,
+          "x": 318.0390625,
+          "y": 422.8671875
+        }
+      ],
+      "guideHeading": [
+        {
+          "documentY": 4008.0078125,
+          "y": 115.5078125
+        }
+      ],
+      "height": 852,
+      "scrollY": 3892.5,
+      "width": 393
+    },
+    "scroll": {
+      "scrollX": 0,
+      "scrollY": 3892.5
+    }
+  },
+  {
+    "image": "images/recheck-journeys-01-carabao-alias-fails.jpg",
+    "date": "2026-10-07",
+    "url": "https://busk.town/dashboard",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "steps": "Dashboard → header search → carabao",
+    "sha256": "96a84e9db6d1422bfb88f1adb3eaaadb219f78ea0f001cdc75f5f3d62f2b0cf3",
+    "claim": "3.1: carabao returns no matches."
+  },
+  {
+    "image": "images/recheck-journeys-02-carabao-canonical-works.jpg",
+    "date": "2026-10-07",
+    "url": "https://busk.town/dashboard",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "steps": "Replace carabao with คาราบาว",
+    "sha256": "579205495ecbc2b9573ca38121e44c5de2fe2038ced29d1e1a3e21692b231835",
+    "claim": "3.1 successful control: canonical Thai query returns artist and songs."
+  },
+  {
+    "image": "images/recheck-journeys-03-newjiew-thai-alias-fails.jpg",
+    "date": "2026-10-07",
+    "url": "https://busk.town/dashboard",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "steps": "Header search → นิวจิ๋ว",
+    "sha256": "eab7a1c51c1f81ee760ea4652d81afa1720433fabe6ca98a91102176ad980f37",
+    "claim": "3.1 familiar Thai alias has no matches."
+  },
+  {
+    "image": "images/recheck-journeys-04-newjiew-canonical-works.jpg",
+    "date": "2026-10-07",
+    "url": "https://busk.town/dashboard",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "steps": "Replace นิวจิ๋ว with NEW JIEW",
+    "sha256": "fcdddf0d1e23eeac7f3c0e5fdf805b3394955ca4d3b189d1ea84847015ba1d97",
+    "claim": "3.1 successful control: official English artist query returns artist and songs."
+  },
+  {
+    "image": "images/recheck-journeys-05-artist-scoped-empty.jpg",
+    "date": "2026-10-07",
+    "url": "https://busk.town/artists/new-jiew",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "steps": "NEW JIEW artist page → lower search → hotel california",
+    "sha256": "255d04b2ecf13be446334c4b2ea7f5d275957e5443bbff8faf3f747c7c10aafa",
+    "claim": "3.2 local artist search removes all rows and shows no scope/no-results/recovery text before affiliate products."
+  },
+  {
+    "image": "images/recheck-journeys-06-before-song-query-and-date-added.jpg",
+    "date": "2026-10-07",
+    "url": "https://busk.town/artists/new-jiew",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "steps": "Artist local query ไม่รัก → choose Date Added before opening song",
+    "sha256": "3ed4962891f3edfeb245ec799da1f0765ae2014348d49bb9440f6bb4f9b701e2",
+    "claim": "3.3 before: query present, one row, Date Added visibly selected."
+  },
+  {
+    "image": "images/recheck-journeys-07-after-back-query-lost-title-sort.jpg",
+    "date": "2026-10-07",
+    "url": "https://busk.town/artists/new-jiew",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "steps": "Open matched song ไม่รักไม่ต้อง → browser Back",
+    "sha256": "4016b39f3956c1782c301861595db79968ab797baf053116ae77e1c3ec72030e",
+    "claim": "3.3 after: query collapsed/cleared, full artist list, sort reset to Title."
+  },
+  {
+    "image": "images/recheck-parent-01-about-setlist-promise.jpg",
+    "date": "2026-10-07",
+    "url": "https://busk.town/about-us",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "steps": "Opened About Us and brought its setlist promotion into view; no account used.",
+    "sha256": "8eba40105ab8eece4902b940cac4d019d81c48d4188c9bc6ecfe3e57303b20a0",
+    "scroll": {
+      "scrollX": 0,
+      "scrollY": 1834
+    }
+  },
+  {
+    "image": "images/recheck-parent-02-about-join-invitation.jpg",
+    "date": "2026-10-07",
+    "url": "https://busk.town/about-us",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "steps": "Actual Join Us invitation immediately before clicking its Visit busk.town link.",
+    "sha256": "b53d27800531c2b746b2be53abd3fb9d7a6d6e8b767e289029f0de561adf5fb2",
+    "scroll": {
+      "scrollX": 0,
+      "scrollY": 2816
+    }
+  },
+  {
+    "image": "images/recheck-parent-03-invitation-opens-dashboard.jpg",
+    "date": "2026-10-07",
+    "url": "https://busk.town/dashboard",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "steps": "Immediately after clicking the captured About page Join Us/Visit busk.town invitation, before any other navigation. The destination is the guest dashboard.",
+    "sha256": "4df9425589725b6c3388d8e857388183d135c40b726c593fc54daa77176b9ad7",
+    "scroll": {
+      "scrollX": 0,
+      "scrollY": 1869
+    }
+  },
+  {
+    "image": "images/recheck-parent-04-guest-menu-before-signup.jpg",
+    "date": "2026-10-07",
+    "url": "https://busk.town/dashboard",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "steps": "Opened drawer, returned from remembered Preferences subpanel to the guest menu. Sign up and Log in both link to /login.",
+    "sha256": "afc2222443ecdf3128403a84f76d99c7a3c0b08c89a82f8baa9f1836cc9ce99b",
+    "scroll": {
+      "scrollX": 0,
+      "scrollY": 0
+    }
+  },
+  {
+    "image": "images/recheck-parent-05-signup-actual-login-destination.jpg",
+    "date": "2026-10-07",
+    "url": "https://busk.town/login",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "steps": "Clicked Sign up in the captured guest menu; arrived at /login with welcome-back heading and existing-user fields. No credentials entered.",
+    "sha256": "853c3f23cc94ec30c19f1ff358c0df60f4b2664dd5fe2c2f925d48cbc9b5201e",
+    "scroll": {
+      "scrollX": 0,
+      "scrollY": 0
+    }
+  },
+  {
+    "image": "images/recheck-parent-06-invitation-dashboard-top.jpg",
+    "date": "2026-10-07",
+    "url": "https://busk.town/dashboard",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "steps": "After recording the immediate /dashboard landing state, brought its busk.town heading into view for a readable destination screenshot; no account or setlist action was performed.",
+    "sha256": "788e9960dd4f22e8cb38d24dfe02ea2bda1361a22be5b5a19126136ea91a84db",
+    "scroll": {
+      "scrollX": 0,
+      "scrollY": 0
+    }
+  }
+]
