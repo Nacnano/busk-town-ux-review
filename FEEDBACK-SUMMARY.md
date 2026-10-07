@@ -16,6 +16,8 @@ On an artist page, going Back from a song cleared my search and put the sort bac
 
 The three that would help me most: keep each line on the screen, show Pause, and find an artist by either spelling.
 
+If you're adding something new, four things I'd actually use: capo shapes beside the sounding key, a way to repeat one section a little slower, a link that opens the song in the key we rehearsed, and tapping the tempo so the click can follow the band. The key I pick already stays on my own phone, which is lovely.
+
 Thank you again for the work that's already in the charts.
 
 Screenshots: https://github.com/Nacnano/busk-town-ux-review

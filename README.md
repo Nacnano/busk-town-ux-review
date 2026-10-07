@@ -58,6 +58,18 @@ On NEW JIEW I searched `ไม่รัก`, sorted by Date Added, opened a song
 
 <img src="images/recheck-journeys-06-before-song-query-and-date-added.jpg" alt="NEW JIEW songs filtered by ไม่รัก and sorted by Date Added" width="240"> <img src="images/recheck-journeys-07-after-back-query-lost-title-sort.jpg" alt="After Back, the search is cleared and the list is sorted by Title" width="240">
 
+## A few things I'd love, when you have time to build
+
+These aren't fixes. The key change, the metronome and the section jumps already got me through the song. I changed *รอ* down to C, closed the page, and it was still in C when I came back. That was a nice surprise. A few extras would help on a real gig.
+
+**The shapes under a capo.** Changing key is easy, and that's what the singer needs. On guitar I often leave the easy shapes alone and clamp a capo. It would be lovely to see both: the key we're hearing, and "capo 2, play as if it's in D."
+
+**Repeat one part.** Jumping to the Bridge is already handy. For practice I wanted to stay there: play that section again, a little slower, until it felt easy, then go back to the whole song.
+
+**Send the key I picked.** My browser remembered C. My bandmate's wouldn't. A link that opens the song in the key we rehearsed would save the usual message: "take it down from E."
+
+**Tap the tempo.** The song's tempo and the click are a good start. Live, we rarely sit on the recorded speed. If I could tap along for a bar, the click could follow the room.
+
 ## The three that would help me most
 
 1. Let each line stay on the screen, chords and lyrics, and keep the section menu clear of the chart.
