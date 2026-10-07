@@ -1,19 +1,21 @@
 Hi busk.town team,
 
-I used the site on my phone the way I would at rehearsal. A few things kept getting in the way of just playing.
+Thank you for the site. The charts are easy to play from: the chords sit with the words, the sections are labelled, and the key is easy to change. I noticed a few small things on my phone. I hope they're useful.
 
-The ad above a song takes the first screen. I’d rather open a link and see the chart.
+A large ad sits above the song. It would help if a shared link opened on the chart, with the ad a little further down.
 
-In รอ, the last chord of the Pre-Hook (Bsus4) sits past the edge of the phone. I can scroll the line sideways to read it. I’d rather the line just fit.
+Some lines run past the edge of the phone. In รอ, the last chord of the Pre-Hook (Bsus4) does this. The words do too. In (There's) No Gettin' Over Me, a line ends at "I'll be the book that y…". In (เก็บใจใส่) กุญแจ, the hook stops mid-phrase. I saw the same thing on 1001 (You're Lovely), 11 นาฬิกา, and 200%. Sliding sideways does show the rest. If the line fitted the phone, I could sing it without that extra move. This came up on most of the songs I opened, at the default text size.
 
-The floating section menu (it said Bridge) covers the chord and the end of the lyric under it.
+The section menu is useful. On รอ, the floating Bridge label sometimes sits on a chord and the end of a lyric. It would be easier to read if it stayed with the other controls.
 
-Autoscroll turns into 60%, 100% and 150%. Tapping the selected speed does pause the page, but the button never says Pause, so that isn’t obvious when the singer stops.
+Autoscroll is a nice touch. It turns into 60%, 100% and 150%, and tapping the selected speed does pause it. A Pause label would make that obvious when the singer stops.
 
-Search misses the names people actually type. “carabao” finds nothing and “คาราบาว” works. “นิวจิ๋ว” finds nothing and “NEW JIEW” works.
+Search is quick with the listed spelling. "carabao" came up empty and "คาราบาว" worked. "นิวจิ๋ว" came up empty and "NEW JIEW" worked. Matching both names would help.
 
-On an artist page, if I search, open a song and press Back, the search is cleared and the sort resets. I had to type it again.
+On an artist page, going Back from a song cleared my search and put the sort back to Title. If those could stay, comparing songs would be easier.
 
-If you only do three things: keep the chart fully on screen, label Pause, and match both spellings of an artist.
+The three that would help me most: keep each line on the screen, show Pause, and find an artist by either spelling.
+
+Thank you again for the work that's already in the charts.
 
 Screenshots: https://github.com/Nacnano/busk-town-ux-review

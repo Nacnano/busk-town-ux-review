@@ -1,67 +1,69 @@
-# A few things that got in the way on busk.town
+# A few notes on busk.town
 
-Hi,
+Hi busk.town team,
 
-I used the site the way I use a chord page at rehearsal: phone in front of me, trying to get through a song. These are the places I had to stop and fiddle with the screen.
+Thank you for the site. The charts are a pleasure to play from: the chords sit with the words, the sections are labelled, and changing key is right there when I need it. I spent a little time on my phone the way I would at rehearsal, and noticed a few small things. I'm sharing them in case they're useful.
 
-## The ad takes the first screen
+## The song could sit a little higher
 
-Open a song and the first thing on the phone is a large ad. The title and the chords sit underneath it. If someone sends me a link in the middle of practice, I want the chart.
+The chart itself is easy to read. On the phone, a large ad sits above it, so the title and the first chords begin further down. When a friend sends me a link during practice, it would help if the song were the first thing on the screen. The ad could live a little further down the page.
 
-Show the song first. The ad can sit further down the page.
+<img src="images/recheck-performance-01-phone-song-top.jpg" alt="Phone view of รอ with an advertisement above the title and chords" width="280">
 
-<img src="images/recheck-performance-01-phone-song-top.jpg" alt="Phone view of รอ with a large advertisement above the title and chords" width="280">
+## Some lines run past the edge of the phone
 
-## The last chord sits past the edge
+Sliding a line sideways does bring the rest into view. I just have to remember that extra move while I'm playing. If the line wrapped, or fitted the phone, I could keep singing.
 
-In *รอ*, the Pre-Hook is a little wider than the phone. The last chord, Bsus4, is cut off. I can slide the line sideways and it shows up. That extra move is the annoying part, especially with a guitar on.
+In *รอ*, the last chord of the Pre-Hook, Bsus4, starts past the edge.
 
-Wrap the line, or fit it to the screen.
+<img src="images/recheck-performance-05-masha-default-clipped-prehook.jpg" alt="Pre-Hook of รอ with the last Bsus4 past the right edge" width="280">
 
-<img src="images/recheck-performance-05-masha-default-clipped-prehook.jpg" alt="Pre-Hook of รอ with the last Bsus4 cut off at the right edge of the phone" width="280">
+The words do this too. On most of the songs I opened, at least one lyric line continues off the screen. In *(There's) No Gettin' Over Me*, Hook 2 ends mid-word: "I'll be the book that y…"
 
-## The section menu covers the chord
+<img src="images/lyric-no-gettin-over-me.jpg" alt="No Gettin' Over Me with lyric lines cut off at the right edge" width="280">
 
-Scrolling through the same song, the floating “Bridge” menu sat on top of the last chord and the end of the lyric. I had to move the page to read a chord that was already in view.
+In *(เก็บใจใส่) กุญแจ*, the verse and the hook do the same. "อยากจะฟังนัก บอกว่ารักฉัน…" stops around "พูดมาล".
 
-Keep that menu in the toolbar, off the chart.
+<img src="images/lyric-kunjae.jpg" alt="กุญแจ with Thai lyric lines cut off at the right edge" width="280">
 
-<img src="images/recheck-performance-07-section-picker-overlap.jpg" alt="The Bridge menu overlapping the last chord and lyric" width="280">
+I saw the same thing on songs such as *1001 (You're Lovely)*, *11 นาฬิกา*, and *200%*. This was at the default text size, on songs from the front page.
 
-## Autoscroll doesn’t look like it can pause
+## The section menu sometimes rests on the chart
 
-Press Autoscroll and the label turns into 60%, 100% and 150%. Tapping the speed that’s already selected does pause the page. The button never says Pause, so the first time I just watched it keep moving while the singer stopped.
+The section menu is handy for jumping around a long song. While I was reading *รอ*, the floating "Bridge" label sat on the last chord and the end of the lyric. If it stayed up with the other controls, the chart underneath would stay clear.
 
-Put a Pause label next to the speeds.
+<img src="images/recheck-performance-07-section-picker-overlap.jpg" alt="The Bridge menu resting on a chord and lyric" width="280">
 
-<img src="images/recheck-performance-09-autoscroll-active.jpg" alt="Autoscroll running, with 60, 100 and 150 percent and no Pause label" width="280">
+## A Pause label next to Autoscroll
 
-## Search only accepts one spelling
+Autoscroll is a nice touch when both hands are busy. Once it starts, the button becomes 60%, 100% and 150%. Tapping the speed that's already selected does pause the page. I found that by trying it. A Pause label beside the speeds would make it obvious when the singer stops for a moment.
 
-`carabao` comes back empty. `คาราบาว` finds the artist and the songs. The other way around as well: `นิวจิ๋ว` finds nothing, and `NEW JIEW` works.
+<img src="images/recheck-performance-09-autoscroll-active.jpg" alt="Autoscroll showing 60, 100 and 150 percent" width="280">
 
-I would have thought the songs weren’t on the site. Match the Thai name and the English name people actually type.
+## Finding an artist by either name
 
-<img src="images/recheck-journeys-01-carabao-alias-fails.jpg" alt="Search for carabao returns no songs" width="240"> <img src="images/recheck-journeys-02-carabao-canonical-works.jpg" alt="Search for คาราบาว returns the artist and songs" width="240">
+Search is quick when I type the name the way it's listed. A few artists I know by another spelling didn't come up. `carabao` was empty, while `คาราบาว` found the artist and the songs. The other way around as well: `นิวจิ๋ว` was empty, and `NEW JIEW` worked. I nearly assumed those songs weren't there. Matching the Thai name and the English name would help.
 
-`carabao` finds nothing. `คาราบาว` works.
+<img src="images/recheck-journeys-01-carabao-alias-fails.jpg" alt="Search for carabao returns no songs" width="240"> <img src="images/recheck-journeys-02-carabao-canonical-works.jpg" alt="Search for คาราบาว finds the artist and songs" width="240">
 
-<img src="images/recheck-journeys-03-newjiew-thai-alias-fails.jpg" alt="Search for นิวจิ๋ว returns no songs" width="240"> <img src="images/recheck-journeys-04-newjiew-canonical-works.jpg" alt="Search for NEW JIEW returns the artist and songs" width="240">
+`carabao` is empty. `คาราบาว` works.
 
-`นิวจิ๋ว` finds nothing. `NEW JIEW` works.
+<img src="images/recheck-journeys-03-newjiew-thai-alias-fails.jpg" alt="Search for นิวจิ๋ว returns no songs" width="240"> <img src="images/recheck-journeys-04-newjiew-canonical-works.jpg" alt="Search for NEW JIEW finds the artist and songs" width="240">
 
-## Back throws away the search
+`นิวจิ๋ว` is empty. `NEW JIEW` works.
 
-On NEW JIEW I searched `ไม่รัก`, sorted by Date Added, opened a song, then pressed Back. The search was gone and the list was every song again, sorted by title.
+## Keeping a search when I come back
 
-If I’m picking songs, I end up typing the same thing twice. Keep the search and the sort.
+On NEW JIEW I searched `ไม่รัก`, sorted by Date Added, opened a song, and pressed Back. The search had cleared, and the list was every song again, sorted by title. If the search and the sort could stay as they were, comparing songs for a set would be a little easier.
 
-<img src="images/recheck-journeys-06-before-song-query-and-date-added.jpg" alt="NEW JIEW songs filtered by ไม่รัก and sorted by Date Added" width="240"> <img src="images/recheck-journeys-07-after-back-query-lost-title-sort.jpg" alt="After Back, the search is cleared and the full list is sorted by Title" width="240">
+<img src="images/recheck-journeys-06-before-song-query-and-date-added.jpg" alt="NEW JIEW songs filtered by ไม่รัก and sorted by Date Added" width="240"> <img src="images/recheck-journeys-07-after-back-query-lost-title-sort.jpg" alt="After Back, the search is cleared and the list is sorted by Title" width="240">
 
-## If you only change three things
+## The three that would help me most
 
-1. Keep the whole chart on screen: fit the wide lines, and move the section menu off the chords.
-2. Make Autoscroll show Pause.
-3. Find an artist by either spelling.
+1. Let each line stay on the screen, chords and lyrics, and keep the section menu clear of the chart.
+2. Show Pause on Autoscroll.
+3. Find an artist from either spelling.
 
-Checked on 7 October 2026, in a phone-width browser, without an account. Short version for a form: [FEEDBACK-SUMMARY.md](FEEDBACK-SUMMARY.md).
+Thank you again for the care that's already in these charts. Happy to explain any of this if it would help.
+
+Checked on 7 October 2026, in a phone-width browser, without an account. A shorter copy: [FEEDBACK-SUMMARY.md](FEEDBACK-SUMMARY.md).

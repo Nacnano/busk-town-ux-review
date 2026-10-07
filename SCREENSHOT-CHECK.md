@@ -1,6 +1,6 @@
 # Screenshot-to-claim audit
 
-The published feedback in README.md was shortened after this audit. It keeps the ad, the wide chord line, the section menu, Autoscroll pause, artist spellings, and search lost on Back. Tool wording, a chord-diagram popup, the empty artist search, setlists, sign-up, and offline install were left out: they were small, already explained on the page, or never actually tried.
+The published feedback in README.md was shortened after this audit, then rewritten in a warmer voice. It keeps the ad, wide chord lines, long lyrics past the phone edge, the section menu, Autoscroll pause, artist spellings, and search lost on Back. Lyric examples added on 7 October 2026: (There's) No Gettin' Over Me and (เก็บใจใส่) กุญแจ, at the default text size in a 390px-wide window. Sideways scrolling on the chart container reveals the rest of those lines. Tool wording, a chord-diagram popup, the empty artist search, setlists, sign-up, and offline install were left out: they were small, already explained on the page, or never actually tried.
 
 Rechecked on 7 October 2026. The earlier report had evidence mismatches and two incorrect conclusions. The README uses fresh images for the findings it still includes.
 
