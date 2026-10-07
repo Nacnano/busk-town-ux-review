@@ -1,10 +1,6 @@
 Feedback for the busk.town team — UX review from a musician's point of view
 (phone/iPad users reading chords & lyrics; full report with screenshots: https://github.com/Nacnano/busk-town-ux-review)
 
-What we love: chords sit right above the lyric syllables, the dark song view is
-stage-friendly, and the Tools panel (transpose, autoscroll, metronome, Easy chords,
-font size, Two Columns) is exactly what gigging musicians need.
-
 Top fixes, in order:
 
 1) Ads take over the playing screen. On phones the top ad eats ~40% of the first

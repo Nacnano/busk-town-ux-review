@@ -5,17 +5,9 @@ Tested logged-out in Chrome emulating an iPhone (393×852) and iPad portrait (83
 
 ## TL;DR
 
-The **chord viewer core is great** — chords over lyric syllables, labeled sections, and a powerful Tools panel. The problems are *around* it: **ads and dialogs eat the playing screen, chord lines clip off the phone edge, search misses obvious queries, and Thai text renders misspelled.** For a product promising *"Chords You Can Trust"*, these break trust at the moment of performance.
+The **chord viewer core is great** — chords over lyric syllables, labeled sections, a powerful Tools panel. Keep building on it. The problems are *around* it: **ads and dialogs eat the playing screen, chord lines clip off the phone edge, search misses obvious queries, and Thai text renders misspelled.** For a product promising *"Chords You Can Trust"*, these break trust at the moment of performance.
 
-## ✅ What works — keep it
-
-<img src="images/05-chords-lyrics-closeup.png" width="280" /> <img src="images/06-tools-sheet.png" width="280" /> <img src="images/12-dashboard-full.png" width="130" />
-
-- Chords aligned syllable-perfect over lyrics; orange-on-dark = stage-readable (left).
-- Tools sheet has everything gigging musicians want: transpose, autoscroll, metronome, Easy chords, font size, layouts (middle).
-- Song facts up top (key, BPM, time sig, duration) · press-and-hold to report wrong lyrics · clean genre/decade/wedding-tag discovery (right) · LINE login fits Thailand.
-
-## 🔧 Issues, prioritized
+## 🔧 What to fix, prioritized
 
 ### P1 · Ads dominate the screen musicians play from
 
@@ -33,7 +25,7 @@ Measured: a 5-bar line is **384px wide in a 353px container with no horizontal s
 
 ### P1 · Thai text renders misspelled (UI *and* lyrics)
 
-Tone marks appear out of order or added spuriously — song titles, login buttons, cookie banner (screens above). It's in the page source, so it's likely an encoding/transliteration bug, not a font quirk. For a lyrics product, this is a trust-killer.
+Tone marks appear out of order or added spuriously — song titles, login buttons, cookie banner (see screenshots). It's in the page source, so it's likely an encoding/transliteration bug, not a font quirk. For a lyrics product, this is a trust-killer.
 **Fix:** audit the text pipeline (TIS-620↔Unicode, NFC) + native-speaker QA.
 
 ### P1 · Search misses songs that exist
@@ -45,7 +37,9 @@ Searching **"carabao"** — Thailand's most famous band, whose songs sit on the 
 
 ### P2 · First-visit dialog pile-up · hidden controls · cryptic words
 
-- Cookie modal + an onboarding popover open **over the first chords** on first visit (see P1 image left). → non-blocking toasts.
+<img src="images/06-tools-sheet.png" width="280" />
+
+- Cookie modal + an onboarding popover open **over the first chords** on first visit (see top image). → non-blocking toasts.
 - Phone: Tools = unlabelled icon, **Metronome disappears** into the Tools sheet (iPad has it labelled). → keep visible & labelled.
 - "E (Ori)", "(+5)", chord type "**True**" need explaining. → "Original key", "+5 semitones", "Original chords".
 - After the song, actions (add-to-setlist, next song) are buried under the SEO tail. → sticky mobile bottom bar.
@@ -60,7 +54,16 @@ Searching **"carabao"** — Thailand's most famous band, whose songs sit on the 
 
 ## 🙋 Top-8 quick wins
 
-1. Stage mode: no ads in the song view · 2. Never clip chord lines on phones · 3. Fix Thai text encoding · 4. Romanized-name search + suggestions · 5. Non-blocking first-run dialogs · 6. Label phone controls, restore Metronome button · 7. Plain words: "Original key / Original chords" · 8. Apple sign-in + visible "Install app".
+1. Stage mode: no ads in the song view
+2. Never clip chord lines on phones
+3. Fix Thai text encoding
+4. Romanized-name search + suggestions
+5. Non-blocking first-run dialogs
+6. Label phone controls, restore Metronome button
+7. Plain words: "Original key / Original chords"
+8. Apple sign-in + visible "Install app"
+
+*One line of encouragement for the team: the viewer itself is close to best-in-class — fix the surroundings and it becomes the gig app Thai musicians keep open on stage.*
 
 ---
 
