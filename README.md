@@ -70,11 +70,6 @@ Today the video lives under the chord shapes at the end of the page. Reading Ver
 
 Play is the only control busk.town adds today. Everything after that is YouTube's own player.
 
-## The two that would help me most
-
-1. Let each line stay on the screen, chords and lyrics, and keep the section menu clear of the chart.
-2. Find an artist from either spelling.
-
 Thank you again for the care that's already in these charts. Happy to explain any of this if it would help.
 
 Checked on 7 October 2026, in a phone-width browser, without an account. A shorter copy: [FEEDBACK-SUMMARY.md](FEEDBACK-SUMMARY.md).

@@ -12,8 +12,6 @@ Search is quick with the listed spelling. "carabao" came up empty and "คาร
 
 On an artist page, going Back from a song cleared my search and put the sort back to Title. If those could stay, comparing songs would be easier.
 
-The two that would help me most: keep each line on the screen and find an artist by either spelling.
-
 If you're adding something new, a few things I'd actually use: tapping the tempo so the click can follow the band, a picture-in-picture window for the YouTube video so it stays up while I read the chart, and a 2-second skip back for picking out fast solos, bass lines and melodies. The key I pick already stays on my own phone, which is lovely.
 
 Thank you again for the work that's already in the charts.
