@@ -72,15 +72,15 @@ These aren't fixes. The key change, the metronome and the section jumps already 
 
 **Keep the video in a small window.** The YouTube embed is handy for checking a part by ear. As soon as I scroll down to the chart, the video is off the screen. If it could pop out into a little picture-in-picture window, the chord sheet and the video could stay in view together.
 
-<img src="images/29-youtube-below-chart.jpg" alt="The YouTube video sits at the bottom of the song page, under the chord shapes" width="240"> <img src="images/30-chart-without-video.jpg" alt="Reading Verse 1, the video is several screens below" width="240">
+<img src="images/29-youtube-below-chart.jpg" alt="The YouTube video sits at the bottom of the song page, under the chord shapes" width="240"> <img src="images/32-pip-mockup.jpg" alt="A sketch of the video tucked into the corner of the chart while reading Verse 1" width="240">
 
-The video lives under the chord shapes at the end of the page. Reading Verse 1, it's about four and a half screens away.
+Today the video lives under the chord shapes at the end of the page. Reading Verse 1, it's about four and a half screens away. The second picture is a rough sketch of what I mean: a small window in the corner that stays put while the chart scrolls.
 
 **A shorter skip back.** Double-tapping the YouTube player jumps 10 seconds. When I'm picking out a fast solo, a bass line or a melody, 10 seconds is a whole phrase too far. A busk.town button that steps back 2 seconds, maybe with a slower playback speed next to it, would let me stay on the one bar I'm trying to catch.
 
-<img src="images/31-video-play-only.jpg" alt="The video box on the song page, where the only busk.town control is Play" width="280">
+<img src="images/33-skip-mockup.jpg" alt="A sketch of a 2-second step back, a slower speed and a 2-second step forward under the video" width="280">
 
-Play is the only control busk.town adds. Everything after that is YouTube's own player.
+A sketch, not a screenshot: a 2-second step either way, with a slower speed between them, sitting under the video. Play is the only control busk.town adds today.
 
 ## The three that would help me most
 
