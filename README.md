@@ -2,9 +2,11 @@
 
 Hi busk.town team,
 
-Thank you for the site. The charts are a pleasure to play from: the chords sit with the words, the sections are labelled, and changing key is right there when I need it. I spent a little time on my phone the way I would at rehearsal, and noticed a few small things. I'm sharing them in case they're useful.
+Thank you for the site. The charts are a pleasure to play from: the chords sit with the words, the sections are labelled, and changing key is right there when I need it.
 
 I was really surprised that the browser remembered my key change, too. I took *รอ* down to C, closed the page, and it was still in C when I opened it again. That was a nice touch.
+
+I spent a little time playing through songs on my phone, the way I would at rehearsal, and had a few small suggestions. The first is about where the chart starts on the screen.
 
 ## The song could sit a little higher
 
