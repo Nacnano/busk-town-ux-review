@@ -4,6 +4,8 @@ Hi busk.town team,
 
 Thank you for the site. The charts are a pleasure to play from: the chords sit with the words, the sections are labelled, and changing key is right there when I need it. I spent a little time on my phone the way I would at rehearsal, and noticed a few small things. I'm sharing them in case they're useful.
 
+I was really surprised that the browser remembered my key change, too. I took *รอ* down to C, closed the page, and it was still in C when I opened it again. That was a nice touch.
+
 ## The song could sit a little higher
 
 The chart itself is easy to read. On the phone, a large ad sits above it, so the title and the first chords begin further down. When a friend sends me a link during practice, it would help if the song were the first thing on the screen. The X in the ad's corner opens a note about removing ads through LINE, so there isn't a quick way to tuck it away. The ad could live a little further down the page.
