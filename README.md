@@ -78,7 +78,9 @@ The video lives under the chord shapes at the end of the page. Reading Verse 1, 
 
 **A shorter skip back.** Double-tapping the YouTube player jumps 10 seconds. When I'm picking out a fast solo, a bass line or a melody, 10 seconds is a whole phrase too far. A busk.town button that steps back 2 seconds, maybe with a slower playback speed next to it, would let me stay on the one bar I'm trying to catch.
 
-<!-- SKIP_SCREENSHOT -->
+<img src="images/31-video-play-only.jpg" alt="The video box on the song page, where the only busk.town control is Play" width="280">
+
+Play is the only control busk.town adds. Everything after that is YouTube's own player.
 
 ## The three that would help me most
 
