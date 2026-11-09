@@ -52,19 +52,21 @@ On NEW JIEW I searched `ไม่รัก`, sorted by Date Added, opened a song
 
 <img src="images/recheck-journeys-06-before-song-query-and-date-added.jpg" alt="NEW JIEW songs filtered by ไม่รัก and sorted by Date Added" width="240"> <img src="images/recheck-journeys-07-after-back-query-lost-title-sort.jpg" alt="After Back, the search is cleared and the list is sorted by Title" width="240">
 
-## A few things I'd love, when you have time to build
+## Tap the tempo
 
-Changing the key and jumping between sections made it easy to play along, and the metronome was handy too. I liked that the page remembered my key: I took *รอ* down to C, and it was still in C when I opened it again. Here are a few other things I'd find useful while playing.
+The song's tempo and the click are a good start. Live, we rarely sit on the recorded speed. If I could tap along for a bar, the click could follow the room.
 
-**Tap the tempo.** The song's tempo and the click are a good start. Live, we rarely sit on the recorded speed. If I could tap along for a bar, the click could follow the room.
+## Keep the video in a small window
 
-**Keep the video in a small window.** The YouTube embed is handy for checking a part by ear. As soon as I scroll down to the chart, the video is off the screen. If it could pop out into a little picture-in-picture window, the chord sheet and the video could stay in view together.
+The YouTube embed is handy for checking a part by ear. As soon as I scroll down to the chart, the video is off the screen. If it could pop out into a little picture-in-picture window, the chord sheet and the video could stay in view together.
 
 <img src="images/29-youtube-below-chart.jpg" alt="The YouTube video sits at the bottom of the song page, under the chord shapes" width="240"> <img src="images/32-pip-mockup.jpg" alt="A sketch of the video tucked into the corner of the chart while reading Verse 1" width="240">
 
 Today the video lives under the chord shapes at the end of the page. Reading Verse 1, it's about four and a half screens away. The second picture is a rough sketch of what I mean: a small window in the corner that stays put while the chart scrolls.
 
-**A shorter skip back.** Double-tapping the YouTube player jumps 10 seconds. When I'm picking out a fast solo, a bass line or a melody, 10 seconds is a whole phrase too far. A busk.town button that steps back 2 seconds, maybe with a slower playback speed next to it, would let me stay on the one bar I'm trying to catch.
+## A shorter skip back
+
+Double-tapping the YouTube player jumps 10 seconds. When I'm picking out a fast solo, a bass line or a melody, 10 seconds is a whole phrase too far. A busk.town button that steps back 2 seconds, maybe with a slower playback speed next to it, would let me stay on the one bar I'm trying to catch.
 
 <img src="images/33-skip-comment.jpg" alt="The video box on the song page, with a note that double-tap jumps 10 seconds and a 2-second step would help" width="280">
 
