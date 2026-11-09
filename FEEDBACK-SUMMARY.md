@@ -16,7 +16,7 @@ On an artist page, going Back from a song cleared my search and put the sort bac
 
 The three that would help me most: keep each line on the screen, show a Stop on Autoscroll, and find an artist by either spelling.
 
-If you're adding something new, a few things I'd actually use: capo shapes beside the sounding key, a practice loop over one section with the click a little slower, a link that opens the song in the key we rehearsed, tapping the tempo so the click can follow the band, a picture-in-picture window for the YouTube video so it stays up while I read the chart, and a 2-second skip back for picking out fast solos, bass lines and melodies. The key I pick already stays on my own phone, which is lovely.
+If you're adding something new, a few things I'd actually use: tapping the tempo so the click can follow the band, a picture-in-picture window for the YouTube video so it stays up while I read the chart, and a 2-second skip back for picking out fast solos, bass lines and melodies. The key I pick already stays on my own phone, which is lovely.
 
 Thank you again for the work that's already in the charts.
 

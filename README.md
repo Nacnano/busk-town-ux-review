@@ -60,13 +60,7 @@ On NEW JIEW I searched `ไม่รัก`, sorted by Date Added, opened a song
 
 ## A few things I'd love, when you have time to build
 
-These aren't fixes. The key change, the metronome and the section jumps already got me through the song. I changed *รอ* down to C, closed the page, and it was still in C when I came back. That was a nice surprise. A few extras would help on a real gig.
-
-**The shapes under a capo.** Changing key is easy, and that's what the singer needs. On guitar I often leave the easy shapes alone and clamp a capo. It would be lovely to see both: the key we're hearing, and "capo 2, play as if it's in D."
-
-**Loop one part for practice.** Jumping to the Bridge is already handy. For practice I wanted to stay there: let Autoscroll run over that one section on repeat, with the metronome a little under the song's tempo, until it felt easy.
-
-**Send the key I picked.** My browser remembered C. My bandmate's wouldn't. A link that opens the song in the key we rehearsed would save the usual message: "take it down from E."
+Changing the key and jumping between sections made it easy to play along, and the metronome was handy too. I liked that the page remembered my key: I took *รอ* down to C, and it was still in C when I opened it again. Here are a few other things I'd find useful while playing.
 
 **Tap the tempo.** The song's tempo and the click are a good start. Live, we rarely sit on the recorded speed. If I could tap along for a bar, the click could follow the room.
 
