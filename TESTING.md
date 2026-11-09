@@ -1,8 +1,24 @@
 # Reproduction notes
 
+## Final review — 9 November 2026
+
+The final README contains five observed issues (ad placement, clipped lines, section-menu overlap, artist aliases and search/sort reset on browser Back) and three suggestions (tap tempo, picture-in-picture video and a 2-second skip back). The suggestions describe what would be useful, rather than claiming an existing control is broken.
+
+The final evidence review checked every image used in the README against its caption, all local document/image links, and all 26 SHA-256 hashes in the [October capture manifest](evidence/2026-10-07-recheck.json). The [final publication manifest](evidence/2026-11-09-final-audit.json) records the images actually published, their hashes and their source images. Run `node tools/verify/report-integrity.mjs` from the repository root to repeat the file checks without installing dependencies.
+
+A fresh interactive check on 9 November stopped at Cloudflare's human-verification page. The site could be partially retrieved as text, but text retrieval does not verify layout, search interactions, browser Back, saved keys, ad dismissal or audio. Those behaviors have not been freshly confirmed by this final pass. The README describes the earlier observations in the past tense and gives the observation period separately from the final review date.
+
+The saved screenshots directly support the clipped-line, section-overlap, artist-alias and before/after search-sort examples. Key persistence and the ad X opening a LINE note are recorded observations from the earlier review; the screenshots alone do not demonstrate those actions. The retained verification scripts show how they were investigated, but do not substitute for saved execution results.
+
+The wording now avoids an uncounted claim about "most" songs, additional song examples without attached evidence, an exact number of screens between chart and video, and a universal 10-second YouTube double-tap behavior. The older annotated `33-skip-comment.jpg` is retained as historical material and is not used in the published feedback. Physical YouTube touch gestures were not tested. The skip-back section is a feature suggestion.
+
+Orange outlines in the published chord/lyric/section screenshots are annotations; their unannotated sources are listed in the final manifest. `32-pip-mockup.jpg` is a composite illustration, visibly labelled "Proposed", and is not evidence of a working feature. The video screenshot was added to the repository on 9 November; its exact capture time was not separately logged.
+
+## Historical checks — 7 October 2026
+
 The published README was later shortened. Steps below still cover the checks that were left out of the feedback (Autoscroll, tool labels, chord diagrams, empty artist search, setlists, sign-up, install). Those notes are here so the evidence stays, not because each one is still a recommendation.
 
-Rechecked on 7 October 2026 by two agents and the primary reviewer in separate logged-out Chrome tabs. The primary reviewer also inspected the replacement images against their captions. Phone captures are 393 × 852 for song controls and 390 × 844 for search; portrait tablet captures are 768 × 1024. Saved JPEG dimensions were checked against the page viewport. Captures are unannotated and unmodified.
+Rechecked on 7 October 2026 by two agents and the primary reviewer in separate logged-out Chrome tabs. The primary reviewer also inspected the replacement images against their captions. Phone captures are 393 × 852 for song controls and 390 × 844 for search; portrait tablet captures are 768 × 1024. Saved JPEG dimensions were checked against the page viewport. The original captures covered by the October manifest are unannotated and unmodified; the later README highlights and mockup are derived images.
 
 These are simulated desktop-browser layouts. Physical touch gestures, iPhone/iPad Safari, account-only features, metronome audio, completed installation and disconnected-network behavior were not tested. No credentials were entered or accounts created. The first-visit introduction image is explicitly archival.
 

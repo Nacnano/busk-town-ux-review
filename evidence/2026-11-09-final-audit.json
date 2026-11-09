@@ -1,0 +1,234 @@
+{
+  "review_date": "2026-11-09",
+  "repository": "https://github.com/Nacnano/busk-town-ux-review",
+  "published_document": "README.md",
+  "summary_document": "FEEDBACK-SUMMARY.md",
+  "original_capture_manifest": "evidence/2026-10-07-recheck.json",
+  "live_interactive_recheck": {
+    "status": "blocked_by_cloudflare",
+    "attempted_date": "2026-11-09",
+    "url": "https://busk.town/songs/%E0%B8%A3%E0%B8%AD-masha",
+    "note": "The browser reached a human-verification page. Text-only retrieval was partial and may include cached pages; it does not confirm current layout or interaction behavior."
+  },
+  "scope_notes": [
+    "The published report uses saved October screenshots and recorded October–November observations. The review date is not a new capture date.",
+    "Five observed issues and three feature suggestions are retained. Removed recommendations remain absent from README.md and FEEDBACK-SUMMARY.md.",
+    "No physical-device, metronome-audio, account-only or offline behavior is established by the final evidence review.",
+    "The uncounted most-songs claim, extra song examples without screenshots, exact screen-distance claim and universal YouTube double-tap interval were removed."
+  ],
+  "images": [
+    {
+      "image": "images/recheck-performance-01-phone-song-top.jpg",
+      "sha256": "bc1fdf5bb8f899bdf5a174a60607d5e968fbfcaea810bfe07e75e607dd603279",
+      "dimensions_px": {
+        "width": 393,
+        "height": 852
+      },
+      "kind": "screenshot",
+      "capture_date": "2026-10-07",
+      "capture_url": "https://busk.town/songs/%E0%B8%A3%E0%B8%AD-masha",
+      "viewport_css_px": {
+        "width": 393,
+        "height": 852
+      },
+      "capture_metadata": "evidence/2026-10-07-recheck.json"
+    },
+    {
+      "image": "images/highlights/02-chord.jpg",
+      "sha256": "6115f13df168e38913b95a7d412414d020eb4c15a5f4880c00a92df5cb89de5c",
+      "dimensions_px": {
+        "width": 393,
+        "height": 852
+      },
+      "kind": "annotated_screenshot",
+      "first_added_to_repository": "2026-10-07T18:11:50+07:00",
+      "sources": [
+        {
+          "path": "images/recheck-performance-05-masha-default-clipped-prehook.jpg",
+          "sha256": "1872aef8daca215398976f9d8ed4dbd122552726ab1fa747a74f01dcc49b6371"
+        }
+      ],
+      "provenance_note": "Orange outlines added to the source screenshot. No layout defect is created by the annotation."
+    },
+    {
+      "image": "images/highlights/03-lyrics-en.jpg",
+      "sha256": "5b77766b97d167f6d451000e0190686049f2d6734beb42a0db4101ee504ed4d8",
+      "dimensions_px": {
+        "width": 780,
+        "height": 1688
+      },
+      "kind": "annotated_screenshot",
+      "first_added_to_repository": "2026-10-07T18:11:50+07:00",
+      "sources": [
+        {
+          "path": "images/lyric-no-gettin-over-me.jpg",
+          "sha256": "461c12b45477fadf525dc16627217482329e3bba37e36257160b1d36551e1f96"
+        }
+      ],
+      "provenance_note": "Orange outlines added to the source screenshot. No layout defect is created by the annotation."
+    },
+    {
+      "image": "images/highlights/04-lyrics-th.jpg",
+      "sha256": "f01efdac7d9124f3f061811e3cb68488bbec96a598cf8a1a958e1f4639adf35c",
+      "dimensions_px": {
+        "width": 780,
+        "height": 1688
+      },
+      "kind": "annotated_screenshot",
+      "first_added_to_repository": "2026-10-07T18:11:50+07:00",
+      "sources": [
+        {
+          "path": "images/lyric-kunjae.jpg",
+          "sha256": "d4a19af724fc911a942b909e2a1c46650421ad9350f16d6731ca7e7de2f93d13"
+        }
+      ],
+      "provenance_note": "Orange outlines added to the source screenshot. No layout defect is created by the annotation."
+    },
+    {
+      "image": "images/highlights/05-bridge.jpg",
+      "sha256": "bba95c883e30d4a061916be4802480b8253f6fe12ae08a32ec4ea9bd410ef442",
+      "dimensions_px": {
+        "width": 393,
+        "height": 852
+      },
+      "kind": "annotated_screenshot",
+      "first_added_to_repository": "2026-10-07T18:11:50+07:00",
+      "sources": [
+        {
+          "path": "images/recheck-performance-07-section-picker-overlap.jpg",
+          "sha256": "c149071c21913f1de90fcefd1daf4158a37a096b254c091ea94eca2564366738"
+        }
+      ],
+      "provenance_note": "Orange outlines added to the source screenshot. No layout defect is created by the annotation."
+    },
+    {
+      "image": "images/recheck-journeys-01-carabao-alias-fails.jpg",
+      "sha256": "96a84e9db6d1422bfb88f1adb3eaaadb219f78ea0f001cdc75f5f3d62f2b0cf3",
+      "dimensions_px": {
+        "width": 390,
+        "height": 844
+      },
+      "kind": "screenshot",
+      "capture_date": "2026-10-07",
+      "capture_url": "https://busk.town/dashboard",
+      "viewport_css_px": {
+        "width": 390,
+        "height": 844
+      },
+      "capture_metadata": "evidence/2026-10-07-recheck.json"
+    },
+    {
+      "image": "images/recheck-journeys-02-carabao-canonical-works.jpg",
+      "sha256": "579205495ecbc2b9573ca38121e44c5de2fe2038ced29d1e1a3e21692b231835",
+      "dimensions_px": {
+        "width": 390,
+        "height": 844
+      },
+      "kind": "screenshot",
+      "capture_date": "2026-10-07",
+      "capture_url": "https://busk.town/dashboard",
+      "viewport_css_px": {
+        "width": 390,
+        "height": 844
+      },
+      "capture_metadata": "evidence/2026-10-07-recheck.json"
+    },
+    {
+      "image": "images/recheck-journeys-03-newjiew-thai-alias-fails.jpg",
+      "sha256": "eab7a1c51c1f81ee760ea4652d81afa1720433fabe6ca98a91102176ad980f37",
+      "dimensions_px": {
+        "width": 390,
+        "height": 844
+      },
+      "kind": "screenshot",
+      "capture_date": "2026-10-07",
+      "capture_url": "https://busk.town/dashboard",
+      "viewport_css_px": {
+        "width": 390,
+        "height": 844
+      },
+      "capture_metadata": "evidence/2026-10-07-recheck.json"
+    },
+    {
+      "image": "images/recheck-journeys-04-newjiew-canonical-works.jpg",
+      "sha256": "fcdddf0d1e23eeac7f3c0e5fdf805b3394955ca4d3b189d1ea84847015ba1d97",
+      "dimensions_px": {
+        "width": 390,
+        "height": 844
+      },
+      "kind": "screenshot",
+      "capture_date": "2026-10-07",
+      "capture_url": "https://busk.town/dashboard",
+      "viewport_css_px": {
+        "width": 390,
+        "height": 844
+      },
+      "capture_metadata": "evidence/2026-10-07-recheck.json"
+    },
+    {
+      "image": "images/recheck-journeys-06-before-song-query-and-date-added.jpg",
+      "sha256": "3ed4962891f3edfeb245ec799da1f0765ae2014348d49bb9440f6bb4f9b701e2",
+      "dimensions_px": {
+        "width": 390,
+        "height": 844
+      },
+      "kind": "screenshot",
+      "capture_date": "2026-10-07",
+      "capture_url": "https://busk.town/artists/new-jiew",
+      "viewport_css_px": {
+        "width": 390,
+        "height": 844
+      },
+      "capture_metadata": "evidence/2026-10-07-recheck.json"
+    },
+    {
+      "image": "images/recheck-journeys-07-after-back-query-lost-title-sort.jpg",
+      "sha256": "4016b39f3956c1782c301861595db79968ab797baf053116ae77e1c3ec72030e",
+      "dimensions_px": {
+        "width": 390,
+        "height": 844
+      },
+      "kind": "screenshot",
+      "capture_date": "2026-10-07",
+      "capture_url": "https://busk.town/artists/new-jiew",
+      "viewport_css_px": {
+        "width": 390,
+        "height": 844
+      },
+      "capture_metadata": "evidence/2026-10-07-recheck.json"
+    },
+    {
+      "image": "images/29-youtube-below-chart.jpg",
+      "sha256": "d7665f54bf4f38bfdcb93441d184767da523e45e3083b97b53b3ef4e9c132f34",
+      "dimensions_px": {
+        "width": 780,
+        "height": 1688
+      },
+      "kind": "screenshot",
+      "first_added_to_repository": "2026-11-09T17:43:18+07:00",
+      "sources": [],
+      "provenance_note": "Added on 9 November 2026; exact capture time was not separately logged. Shows the video below the chord guide."
+    },
+    {
+      "image": "images/32-pip-mockup.jpg",
+      "sha256": "d6542a55250aef3af25dab5e4bfd817433d93d7c395597a4b5d466d180861897",
+      "dimensions_px": {
+        "width": 780,
+        "height": 1688
+      },
+      "kind": "mockup",
+      "first_added_to_repository": "2026-11-09T18:02:23+07:00",
+      "sources": [
+        {
+          "path": "tools/verify/x2-chart-verse1.png",
+          "sha256": "3fe7ccf778f0cb7ff9f6f5bd75a60eda32a7e7220ae22b1424fd4fbc3064c92e"
+        },
+        {
+          "path": "tools/verify/x2-facade.png",
+          "sha256": "e77b1624fa6a8cc8e59869ee157d4a6fe1dcbd96f12090deba47f5a6bd22ea18"
+        }
+      ],
+      "provenance_note": "Composite illustration made from the chart and video screenshots; labelled Proposed. Not a live feature capture."
+    }
+  ]
+}

@@ -1,6 +1,16 @@
 # Screenshot-to-claim audit
 
-The published feedback in README.md was shortened after this audit, then rewritten in a warmer voice. It keeps the ad, wide chord lines, long lyrics past the phone edge, the section menu, artist spellings, and search lost on Back. Lyric examples added on 7 October 2026: (There's) No Gettin' Over Me and (เก็บใจใส่) กุญแจ, at the default text size in a 390px-wide window. Sideways scrolling on the chart container reveals the rest of those lines. Tool wording, a chord-diagram popup, the empty artist search, setlists, sign-up, and offline install were left out: they were small, already explained on the page, or never actually tried. The Autoscroll recommendation was also removed; its checks remain here as historical evidence.
+## Final publication check — 9 November 2026
+
+The published feedback keeps ad placement, clipped chord/lyric lines, section-menu overlap, artist aliases and search/sort lost on browser Back. It also includes three feature suggestions: tap tempo, picture-in-picture video and a 2-second skip back. The [final manifest](evidence/2026-11-09-final-audit.json) records every published image, its SHA-256 hash and its unannotated source or mockup provenance. All 26 hashes in the [original capture manifest](evidence/2026-10-07-recheck.json) were also checked and matched.
+
+The lyric examples are (There's) No Gettin' Over Me and (เก็บใจใส่) กุญแจ, captured at default text size in a 390px-wide window. The highlights mark text continuing past the right edge; they do not imply that sideways scrolling is unavailable. The chord/section examples use a 393px-wide window. The picture-in-picture image is an illustration, not a capture of an existing feature. The older skip-back annotation is not used in the final README.
+
+Fresh interactive verification was blocked by Cloudflare. See [TESTING.md](TESTING.md) for what the saved evidence supports and what remains unconfirmed in the final pass.
+
+## Historical evidence audit — 7 October 2026
+
+The table below preserves the original audit numbering and includes checks later left out of the published feedback: Autoscroll, tool wording, chord previews, empty artist search, setlists, sign-up and offline installation. These are historical records, not additional recommendations in the final README.
 
 Rechecked on 7 October 2026. Scripts for the checks and the pictures are in [tools/](tools/). The earlier report had evidence mismatches and two incorrect conclusions. The README uses fresh images for the findings it still includes.
 

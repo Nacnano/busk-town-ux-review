@@ -4,13 +4,13 @@ Hi busk.town team,
 
 Thank you for the site. The charts are a pleasure to play from: the chords sit with the words, the sections are labelled, and changing key is right there when I need it.
 
-I was really surprised that the browser remembered my key change, too. I took *รอ* down to C, closed the page, and it was still in C when I opened it again. That was a nice touch.
+I was really surprised that the browser remembered my key change, too. I took [*รอ*](https://busk.town/songs/%E0%B8%A3%E0%B8%AD-masha) down to C, closed the page, and it was still in C when I opened it again. That was a nice touch.
 
-I spent a little time playing through songs on my phone, the way I would at rehearsal, and had a few small suggestions. The first is about where the chart starts on the screen.
+I tried the charts at phone width, the way I'd read them at rehearsal, and had a few small suggestions. The first is about where the chart starts on the screen.
 
 ## The song could sit a little higher
 
-The chart itself is easy to read. On the phone, a large ad sits above it, so the title and the first chords begin further down. When a friend sends me a link during practice, it would help if the song were the first thing on the screen. The X in the ad's corner opens a note about removing ads through LINE, so there isn't a quick way to tuck it away. The ad could live a little further down the page.
+The chart itself is easy to read. At phone width, a large ad sits above it, so the title and the first chords begin further down. When a friend sends me a link during practice, it would help if the song were the first thing on the screen. When I tried the X in the ad's corner, it opened a note about removing ads through LINE rather than hiding the ad. The ad could live a little further down the page.
 
 <img src="images/recheck-performance-01-phone-song-top.jpg" alt="Phone view of รอ with an advertisement above the title and chords" width="280">
 
@@ -18,19 +18,19 @@ The chart itself is easy to read. On the phone, a large ad sits above it, so the
 
 Sliding a line sideways does bring the rest into view. I just have to remember that extra move while I'm playing. If the line wrapped, or fitted the phone, I could keep singing.
 
-In *รอ*, the last Bsus4 of the Pre-Hook is cut off at the edge. One step down on Font size brings it back, which is a handy escape hatch.
+In *รอ*, the last Bsus4 of the Pre-Hook is cut off at the right edge.
 
 <img src="images/highlights/02-chord.jpg" alt="The cut-off Bsus4 at the end of each Pre-Hook is outlined" width="280">
 
-The words do this too. On most of the songs I opened, at least one lyric line continues off the screen. In *(There's) No Gettin' Over Me*, Hook 2 ends mid-word: "I'll be the book that y…"
+The words do this too. In [*(There's) No Gettin' Over Me*](https://busk.town/songs/there-s-no-gettin-over-me), several lyric lines continue off the right edge, including the "I'll be the book…" line in Hook 2.
 
 <img src="images/highlights/03-lyrics-en.jpg" alt="Cut-off lyric endings in No Gettin' Over Me are outlined" width="280">
 
-In *(เก็บใจใส่) กุญแจ*, the verse and the hook do the same. The hook line "อยากจะฟังนัก บอกว่ารักฉัน…" stops at "ถ้าเธอเฉลย พูดมาเ".
+In [*(เก็บใจใส่) กุญแจ*](https://busk.town/songs/%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%9A%E0%B9%83%E0%B8%88%E0%B9%83%E0%B8%AA%E0%B9%88-%E0%B8%81%E0%B8%B8%E0%B8%8D%E0%B9%81%E0%B8%88), both the verse and the hook have lyric lines that run off the right edge.
 
 <img src="images/highlights/04-lyrics-th.jpg" alt="Cut-off lyric endings in กุญแจ are outlined" width="280">
 
-I saw the same thing on songs such as *1001 (You're Lovely)*, *11 นาฬิกา*, and *200%*. This was at the default text size, on songs from the front page.
+These screenshots use the original keys, Full layout, True chords and the default text size, at 390–393 pixels wide.
 
 ## The section menu sometimes rests on the chart
 
@@ -40,7 +40,7 @@ The section menu is handy for jumping around a long song. While I was reading *�
 
 ## Finding an artist by either name
 
-Search is quick when I type the name the way it's listed. A few artists I know by another spelling didn't come up. `carabao` was empty, while `คาราบาว` found the artist and the songs. The other way around as well: `นิวจิ๋ว` was empty, and `NEW JIEW` worked. I nearly assumed those songs weren't there. Matching the Thai name and the English name would help.
+In the header search on the [dashboard](https://busk.town/dashboard), a few artists I know by another spelling didn't come up. `carabao` was empty, while `คาราบาว` found the artist and the songs. The other way around as well: `นิวจิ๋ว` was empty, and `NEW JIEW` worked. I nearly assumed those songs weren't there. Matching the Thai name and the English name would help.
 
 <img src="images/recheck-journeys-01-carabao-alias-fails.jpg" alt="Search for carabao returns no songs" width="240"> <img src="images/recheck-journeys-02-carabao-canonical-works.jpg" alt="Search for คาราบาว finds the artist and songs" width="240">
 
@@ -52,13 +52,13 @@ Search is quick when I type the name the way it's listed. A few artists I know b
 
 ## Keeping a search when I come back
 
-On NEW JIEW I searched `ไม่รัก`, sorted by Date Added, opened a song, and pressed Back. The search had cleared, and the list was every song again, sorted by title. If the search and the sort could stay as they were, comparing songs for a set would be a little easier.
+On the [NEW JIEW artist page](https://busk.town/artists/new-jiew), I searched `ไม่รัก`, sorted by Date Added, opened *ไม่รักไม่ต้อง*, and used browser Back. The search had cleared, and the full song list was back, sorted by Title. If the search and the sort could stay as they were, comparing songs for a set would be a little easier.
 
 <img src="images/recheck-journeys-06-before-song-query-and-date-added.jpg" alt="NEW JIEW songs filtered by ไม่รัก and sorted by Date Added" width="240"> <img src="images/recheck-journeys-07-after-back-query-lost-title-sort.jpg" alt="After Back, the search is cleared and the list is sorted by Title" width="240">
 
 ## Tap the tempo
 
-The song's tempo and the click are a good start. Live, we rarely sit on the recorded speed. If I could tap along for a bar, the click could follow the room.
+I'd love a tap-tempo control for the metronome. Live, we rarely sit on the recorded speed. If I could tap along for a bar, the click could follow the room.
 
 ## Keep the video in a small window
 
@@ -66,16 +66,12 @@ The YouTube embed is handy for checking a part by ear. As soon as I scroll down 
 
 <img src="images/29-youtube-below-chart.jpg" alt="The YouTube video sits at the bottom of the song page, under the chord shapes" width="240"> <img src="images/32-pip-mockup.jpg" alt="A sketch of the video tucked into the corner of the chart while reading Verse 1" width="240">
 
-Today the video lives under the chord shapes at the end of the page. Reading Verse 1, it's about four and a half screens away. The second picture is a rough sketch of what I mean: a small window in the corner that stays put while the chart scrolls.
+In the captured page, the video sits below the chord shapes, away from the chart I'm reading. The second picture is a mockup of the suggestion: a small window in the corner that stays put while the chart scrolls.
 
 ## A shorter skip back
 
-Double-tapping the YouTube player jumps 10 seconds. When I'm picking out a fast solo, a bass line or a melody, 10 seconds is a whole phrase too far. A busk.town button that steps back 2 seconds, maybe with a slower playback speed next to it, would let me stay on the one bar I'm trying to catch.
-
-<img src="images/33-skip-comment.jpg" alt="The video box on the song page, with a note that double-tap jumps 10 seconds and a 2-second step would help" width="280">
-
-Play is the only control busk.town adds today. Everything after that is YouTube's own player.
+When I'm picking out a fast solo, a bass line or a melody, I'd find a dedicated 2-second skip-back button useful. Having it beside a playback-speed control would help me work through one bar without repeatedly dragging the video's timeline.
 
 Thank you again for the care that's already in these charts. Happy to explain any of this if it would help.
 
-Checked on 7 October 2026, in a phone-width browser, without an account. A shorter copy: [FEEDBACK-SUMMARY.md](FEEDBACK-SUMMARY.md).
+Observations collected in October–November 2026, in a phone-width desktop browser, without an account. Evidence and wording reviewed on 9 November 2026. [Reproduction notes and verification limits](TESTING.md). A shorter copy: [FEEDBACK-SUMMARY.md](FEEDBACK-SUMMARY.md).
