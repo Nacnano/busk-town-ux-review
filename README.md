@@ -34,12 +34,6 @@ The section menu is handy for jumping around a long song. While I was reading *�
 
 <img src="images/highlights/05-bridge.jpg" alt="The Bridge menu is outlined where it covers a chord and lyric" width="280">
 
-## A way to stop Autoscroll
-
-Autoscroll is a nice touch when both hands are busy. Once it starts, the button becomes 60%, 100% and 150%, and nothing says stop. Touching the page or scrolling by hand doesn't stop it either. Tapping the speed that's already selected turns it off and brings the Autoscroll button back. I found that by trying it. A small Stop beside the speeds would save the guesswork when the singer pauses.
-
-<img src="images/recheck-performance-09-autoscroll-active.jpg" alt="Autoscroll showing 60, 100 and 150 percent" width="280">
-
 ## Finding an artist by either name
 
 Search is quick when I type the name the way it's listed. A few artists I know by another spelling didn't come up. `carabao` was empty, while `คาราบาว` found the artist and the songs. The other way around as well: `นิวจิ๋ว` was empty, and `NEW JIEW` worked. I nearly assumed those songs weren't there. Matching the Thai name and the English name would help.
@@ -76,11 +70,10 @@ Today the video lives under the chord shapes at the end of the page. Reading Ver
 
 Play is the only control busk.town adds today. Everything after that is YouTube's own player.
 
-## The three that would help me most
+## The two that would help me most
 
 1. Let each line stay on the screen, chords and lyrics, and keep the section menu clear of the chart.
-2. Show a Stop on Autoscroll.
-3. Find an artist from either spelling.
+2. Find an artist from either spelling.
 
 Thank you again for the care that's already in these charts. Happy to explain any of this if it would help.
 

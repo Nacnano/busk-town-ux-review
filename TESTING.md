@@ -1,6 +1,6 @@
 # Reproduction notes
 
-The published README was later shortened. Steps below still cover the checks that were left out of the feedback (tool labels, chord diagrams, empty artist search, setlists, sign-up, install). Those notes are here so the evidence stays, not because each one is still a recommendation.
+The published README was later shortened. Steps below still cover the checks that were left out of the feedback (Autoscroll, tool labels, chord diagrams, empty artist search, setlists, sign-up, install). Those notes are here so the evidence stays, not because each one is still a recommendation.
 
 Rechecked on 7 October 2026 by two agents and the primary reviewer in separate logged-out Chrome tabs. The primary reviewer also inspected the replacement images against their captions. Phone captures are 393 × 852 for song controls and 390 × 844 for search; portrait tablet captures are 768 × 1024. Saved JPEG dimensions were checked against the page viewport. Captures are unannotated and unmodified.
 
