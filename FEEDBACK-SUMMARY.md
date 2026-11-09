@@ -2,21 +2,21 @@ Hi busk.town team,
 
 Thank you for the site. The charts are easy to play from: the chords sit with the words, the sections are labelled, and the key is easy to change. I noticed a few small things on my phone. I hope they're useful.
 
-A large ad sits above the song. It would help if a shared link opened on the chart, with the ad a little further down.
+A large ad sits above the song, and its X opens a note about removing ads rather than hiding it. It would help if a shared link opened on the chart, with the ad a little further down.
 
-Some lines run past the edge of the phone. In รอ, the last chord of the Pre-Hook (Bsus4) does this. The words do too. In (There's) No Gettin' Over Me, a line ends at "I'll be the book that y…". In (เก็บใจใส่) กุญแจ, the hook stops mid-phrase. I saw the same thing on 1001 (You're Lovely), 11 นาฬิกา, and 200%. Sliding sideways does show the rest. If the line fitted the phone, I could sing it without that extra move. This came up on most of the songs I opened, at the default text size.
+Some lines run past the edge of the phone. In รอ, the last chord of the Pre-Hook (Bsus4) does this. The words do too. In (There's) No Gettin' Over Me, a line ends at "I'll be the book that y…". In (เก็บใจใส่) กุญแจ, the hook stops at "ถ้าเธอเฉลย พูดมาเ". I saw the same thing on 1001 (You're Lovely), 11 นาฬิกา, and 200%. Sliding sideways does show the rest. If the line fitted the phone, I could sing it without that extra move. This came up on most of the songs I opened, at the default text size.
 
 The section menu is useful. On รอ, the floating Bridge label sometimes sits on a chord and the end of a lyric. It would be easier to read if it stayed with the other controls.
 
-Autoscroll is a nice touch. It turns into 60%, 100% and 150%, and tapping the selected speed does pause it. A Pause label would make that obvious when the singer stops.
+Autoscroll is a nice touch. It turns into 60%, 100% and 150%, and nothing says stop. Tapping the selected speed turns it off, which I found by trying. A small Stop would make that obvious when the singer pauses.
 
 Search is quick with the listed spelling. "carabao" came up empty and "คาราบาว" worked. "นิวจิ๋ว" came up empty and "NEW JIEW" worked. Matching both names would help.
 
 On an artist page, going Back from a song cleared my search and put the sort back to Title. If those could stay, comparing songs would be easier.
 
-The three that would help me most: keep each line on the screen, show Pause, and find an artist by either spelling.
+The three that would help me most: keep each line on the screen, show a Stop on Autoscroll, and find an artist by either spelling.
 
-If you're adding something new, four things I'd actually use: capo shapes beside the sounding key, a way to repeat one section a little slower, a link that opens the song in the key we rehearsed, and tapping the tempo so the click can follow the band. The key I pick already stays on my own phone, which is lovely.
+If you're adding something new, a few things I'd actually use: capo shapes beside the sounding key, a practice loop over one section with the click a little slower, a link that opens the song in the key we rehearsed, tapping the tempo so the click can follow the band, a picture-in-picture window for the YouTube video so it stays up while I read the chart, and a 2-second skip back for picking out fast solos, bass lines and melodies. The key I pick already stays on my own phone, which is lovely.
 
 Thank you again for the work that's already in the charts.
 
