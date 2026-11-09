@@ -1,0 +1,25 @@
+import { phone, dismiss, SONG, log } from "./common.mjs";
+const { browser, page } = await phone();
+await page.goto(SONG, { waitUntil: "domcontentloaded" }); await page.waitForTimeout(2500); await dismiss(page);
+await page.evaluate(() => window.scrollTo(0, 300)); await page.waitForTimeout(300);
+const bar = async () => page.evaluate(() => [...document.querySelectorAll("button")].filter(b => { const r=b.getBoundingClientRect(); return r.width>0 && r.top < 200 && r.top >= 0; }).map(b => ({ label: b.getAttribute("aria-label"), pressed: b.getAttribute("aria-pressed"), text: b.innerText.replace(/\s+/g," ").trim().slice(0,30), top: Math.round(b.getBoundingClientRect().top) })));
+const sy = () => page.evaluate(() => window.scrollY);
+log("bar idle", await bar());
+await page.getByRole("button", { name: /autoscroll/i }).first().click(); await page.waitForTimeout(800);
+log("bar after autoscroll on", await bar());
+let a = await sy(); await page.waitForTimeout(2000); let b = await sy(); log("scrolling after on?", { a, b });
+await page.screenshot({ path: "as-on.jpg", type: "jpeg", quality: 60 });
+await page.getByRole("button", { name: /^100 ?%$/ }).first().click(); await page.waitForTimeout(800);
+log("bar after tapping selected 100%", await bar());
+a = await sy(); await page.waitForTimeout(2000); b = await sy(); log("scrolling after tap selected?", { a, b });
+await page.screenshot({ path: "as-after-tap.jpg", type: "jpeg", quality: 60 });
+// turn on again then tap on page body
+await page.getByRole("button", { name: /autoscroll/i }).first().click(); await page.waitForTimeout(800);
+log("bar after on again", await bar());
+await page.touchscreen.tap(200, 500); await page.waitForTimeout(800);
+log("bar after tapping page body", await bar());
+a = await sy(); await page.waitForTimeout(1500); b = await sy(); log("scrolling after body tap?", { a, b });
+await page.mouse.wheel(0, -80); await page.waitForTimeout(800);
+log("bar after wheel up", await bar());
+a = await sy(); await page.waitForTimeout(1500); b = await sy(); log("scrolling after wheel?", { a, b });
+await browser.close();
