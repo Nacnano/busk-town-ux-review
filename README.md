@@ -78,9 +78,9 @@ Today the video lives under the chord shapes at the end of the page. Reading Ver
 
 **A shorter skip back.** Double-tapping the YouTube player jumps 10 seconds. When I'm picking out a fast solo, a bass line or a melody, 10 seconds is a whole phrase too far. A busk.town button that steps back 2 seconds, maybe with a slower playback speed next to it, would let me stay on the one bar I'm trying to catch.
 
-<img src="images/33-skip-mockup.jpg" alt="A sketch of a 2-second step back, a slower speed and a 2-second step forward under the video" width="280">
+<img src="images/33-skip-comment.jpg" alt="The video box on the song page, with a note that double-tap jumps 10 seconds and a 2-second step would help" width="280">
 
-A sketch, not a screenshot: a 2-second step either way, with a slower speed between them, sitting under the video. Play is the only control busk.town adds today.
+Play is the only control busk.town adds today. Everything after that is YouTube's own player.
 
 ## The three that would help me most
 
