@@ -1,10 +1,10 @@
 # Tools
 
-Verification and image-processing scripts retained from the October–November 2026 review. See [the reproduction notes](../TESTING.md) for the final review's limits. Having a script here does not mean it was successfully rerun during the final pass.
+Verification and image-processing scripts retained from the October–November 2026 review. The final live pass used interactive Chrome on 9 November; its [capture manifest](../evidence/2026-11-09-live-recheck.json) records the actual results. See [the reproduction notes](../TESTING.md) for exact steps and limits. The historical Playwright scripts below were not rerun during that pass.
 
 ## Report integrity
 
-Run `node tools/verify/report-integrity.mjs` from the repository root. It checks local Markdown/image links, the original capture hashes, the final publication hashes and whether every image used in the README is covered by the final manifest. It uses Node's built-in modules and does not open the live site or need an install.
+Run `node tools/verify/report-integrity.mjs` from the repository root. It checks local Markdown/image links, the 26 original capture hashes, the 17 new live-capture hashes, the final publication hashes and whether every image used in the README is covered by the final manifest. It uses Node's built-in modules and does not open the live site or need an install.
 
 ## verify/
 

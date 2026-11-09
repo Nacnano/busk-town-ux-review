@@ -2,11 +2,11 @@
 
 ## Final publication check — 9 November 2026
 
-The published feedback keeps ad placement, clipped chord/lyric lines, section-menu overlap, artist aliases and search/sort lost on browser Back. It also includes three feature suggestions: tap tempo, picture-in-picture video and a 2-second skip back. The [final manifest](evidence/2026-11-09-final-audit.json) records every published image, its SHA-256 hash and its unannotated source or mockup provenance. All 26 hashes in the [original capture manifest](evidence/2026-10-07-recheck.json) were also checked and matched.
+The published feedback keeps ad placement, clipped chord/lyric lines, section-menu overlap, artist aliases and search/sort lost on browser Back. All five issue examples were reproduced live on 9 November after the Cloudflare challenge was completed. It also includes three feature suggestions: tap tempo, picture-in-picture video and a 2-second skip back. The [live manifest](evidence/2026-11-09-live-recheck.json) records 17 new captures with timestamps, URLs, actions, measurements and SHA-256 hashes. The [publication manifest](evidence/2026-11-09-final-audit.json) records every image used in the README and its provenance. All 26 hashes in the [original capture manifest](evidence/2026-10-07-recheck.json) were also checked and matched.
 
 The lyric examples are (There's) No Gettin' Over Me and (เก็บใจใส่) กุญแจ, captured at default text size in a 390px-wide window. The highlights mark text continuing past the right edge; they do not imply that sideways scrolling is unavailable. The chord/section examples use a 393px-wide window. The picture-in-picture image is an illustration, not a capture of an existing feature. The older skip-back annotation is not used in the final README.
 
-Fresh interactive verification was blocked by Cloudflare. See [TESTING.md](TESTING.md) for what the saved evidence supports and what remains unconfirmed in the final pass.
+The README now uses eight fresh captures for the ad, search, Back-navigation and video examples. Four annotated October chart screenshots are retained for clarity; their issues were reproduced in the new captures. The thirteenth image is the labelled picture-in-picture mockup. Key C was also confirmed after a reload and closing/reopening the song tab, then restored to E. See [TESTING.md](TESTING.md) for exact reproduction steps and remaining limits: desktop browser only, no physical touch gestures, full browser restart, metronome audio or video playback test.
 
 ## Historical evidence audit — 7 October 2026
 

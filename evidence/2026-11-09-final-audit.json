@@ -5,33 +5,47 @@
   "summary_document": "FEEDBACK-SUMMARY.md",
   "original_capture_manifest": "evidence/2026-10-07-recheck.json",
   "live_interactive_recheck": {
-    "status": "blocked_by_cloudflare",
-    "attempted_date": "2026-11-09",
-    "url": "https://busk.town/songs/%E0%B8%A3%E0%B8%AD-masha",
-    "note": "The browser reached a human-verification page. Text-only retrieval was partial and may include cached pages; it does not confirm current layout or interaction behavior."
+    "status": "completed_after_human_verification",
+    "date": "2026-11-09",
+    "capture_manifest": "evidence/2026-11-09-live-recheck.json",
+    "confirmed": [
+      "ad placement and X opening the LINE dialog",
+      "key C surviving reload and closing/reopening the song tab in the same profile",
+      "Pre-Hook chord overflow and working horizontal scroll",
+      "Bridge picker overlapping the Verse 2 chord and lyric",
+      "English and Thai lyric overflow at default medium font",
+      "both artist-alias mismatches",
+      "artist query and sort reset on browser history Back",
+      "YouTube facade below the chord guide"
+    ],
+    "limits": [
+      "desktop Chrome at phone width; no physical mobile device or touch gesture test",
+      "no full browser restart, metronome audio or video playback test",
+      "feature suggestions are not reports of broken existing controls"
+    ]
   },
   "scope_notes": [
-    "The published report uses saved October screenshots and recorded October–November observations. The review date is not a new capture date.",
+    "The report combines fresh 9 November captures, four highlighted October screenshots whose issues were reproduced live, and one labelled picture-in-picture mockup.",
     "Five observed issues and three feature suggestions are retained. Removed recommendations remain absent from README.md and FEEDBACK-SUMMARY.md.",
     "No physical-device, metronome-audio, account-only or offline behavior is established by the final evidence review.",
     "The uncounted most-songs claim, extra song examples without screenshots, exact screen-distance claim and universal YouTube double-tap interval were removed."
   ],
   "images": [
     {
-      "image": "images/recheck-performance-01-phone-song-top.jpg",
-      "sha256": "bc1fdf5bb8f899bdf5a174a60607d5e968fbfcaea810bfe07e75e607dd603279",
+      "image": "images/final-2026-11-09/01-song-top.png",
+      "sha256": "67c5ebb0a2cacd77b5535676a7e9e808d2940c4bd35ae1c985356650591f93f9",
       "dimensions_px": {
         "width": 393,
         "height": 852
       },
       "kind": "screenshot",
-      "capture_date": "2026-10-07",
+      "capture_date": "2026-11-09",
       "capture_url": "https://busk.town/songs/%E0%B8%A3%E0%B8%AD-masha",
       "viewport_css_px": {
         "width": 393,
         "height": 852
       },
-      "capture_metadata": "evidence/2026-10-07-recheck.json"
+      "capture_metadata": "evidence/2026-11-09-live-recheck.json"
     },
     {
       "image": "images/highlights/02-chord.jpg",
@@ -102,112 +116,116 @@
       "provenance_note": "Orange outlines added to the source screenshot. No layout defect is created by the annotation."
     },
     {
-      "image": "images/recheck-journeys-01-carabao-alias-fails.jpg",
-      "sha256": "96a84e9db6d1422bfb88f1adb3eaaadb219f78ea0f001cdc75f5f3d62f2b0cf3",
+      "image": "images/final-2026-11-09/12-carabao-empty.png",
+      "sha256": "183ef5bebf12fc11df30bee63cfa46d81933ce4db953e36e3404bc0cc8640dd3",
       "dimensions_px": {
         "width": 390,
         "height": 844
       },
       "kind": "screenshot",
-      "capture_date": "2026-10-07",
+      "capture_date": "2026-11-09",
       "capture_url": "https://busk.town/dashboard",
       "viewport_css_px": {
         "width": 390,
         "height": 844
       },
-      "capture_metadata": "evidence/2026-10-07-recheck.json"
+      "capture_metadata": "evidence/2026-11-09-live-recheck.json"
     },
     {
-      "image": "images/recheck-journeys-02-carabao-canonical-works.jpg",
-      "sha256": "579205495ecbc2b9573ca38121e44c5de2fe2038ced29d1e1a3e21692b231835",
+      "image": "images/final-2026-11-09/13-carabao-found.png",
+      "sha256": "be0b022853221e087a2aed7d65efa330bc84cedfebf6bb00ddfb906758a12dbf",
       "dimensions_px": {
         "width": 390,
         "height": 844
       },
       "kind": "screenshot",
-      "capture_date": "2026-10-07",
+      "capture_date": "2026-11-09",
       "capture_url": "https://busk.town/dashboard",
       "viewport_css_px": {
         "width": 390,
         "height": 844
       },
-      "capture_metadata": "evidence/2026-10-07-recheck.json"
+      "capture_metadata": "evidence/2026-11-09-live-recheck.json"
     },
     {
-      "image": "images/recheck-journeys-03-newjiew-thai-alias-fails.jpg",
-      "sha256": "eab7a1c51c1f81ee760ea4652d81afa1720433fabe6ca98a91102176ad980f37",
+      "image": "images/final-2026-11-09/14-newjiew-empty.png",
+      "sha256": "fa338abd2b74b1f196d1a75dc192119a99f9f0b2155f47128b9c009893be772c",
       "dimensions_px": {
         "width": 390,
         "height": 844
       },
       "kind": "screenshot",
-      "capture_date": "2026-10-07",
+      "capture_date": "2026-11-09",
       "capture_url": "https://busk.town/dashboard",
       "viewport_css_px": {
         "width": 390,
         "height": 844
       },
-      "capture_metadata": "evidence/2026-10-07-recheck.json"
+      "capture_metadata": "evidence/2026-11-09-live-recheck.json"
     },
     {
-      "image": "images/recheck-journeys-04-newjiew-canonical-works.jpg",
-      "sha256": "fcdddf0d1e23eeac7f3c0e5fdf805b3394955ca4d3b189d1ea84847015ba1d97",
+      "image": "images/final-2026-11-09/15-newjiew-found.png",
+      "sha256": "ab9767907f61f3f4f61a7ab1e0aad4b33039b9c14ce67bfbbadaaabad46803c2",
       "dimensions_px": {
         "width": 390,
         "height": 844
       },
       "kind": "screenshot",
-      "capture_date": "2026-10-07",
+      "capture_date": "2026-11-09",
       "capture_url": "https://busk.town/dashboard",
       "viewport_css_px": {
         "width": 390,
         "height": 844
       },
-      "capture_metadata": "evidence/2026-10-07-recheck.json"
+      "capture_metadata": "evidence/2026-11-09-live-recheck.json"
     },
     {
-      "image": "images/recheck-journeys-06-before-song-query-and-date-added.jpg",
-      "sha256": "3ed4962891f3edfeb245ec799da1f0765ae2014348d49bb9440f6bb4f9b701e2",
+      "image": "images/final-2026-11-09/16-artist-before-song.png",
+      "sha256": "96fee5f54569ff685798ab426f11eabeac702a5621d59019cd3fb57a66cea363",
       "dimensions_px": {
         "width": 390,
         "height": 844
       },
       "kind": "screenshot",
-      "capture_date": "2026-10-07",
+      "capture_date": "2026-11-09",
       "capture_url": "https://busk.town/artists/new-jiew",
       "viewport_css_px": {
         "width": 390,
         "height": 844
       },
-      "capture_metadata": "evidence/2026-10-07-recheck.json"
+      "capture_metadata": "evidence/2026-11-09-live-recheck.json"
     },
     {
-      "image": "images/recheck-journeys-07-after-back-query-lost-title-sort.jpg",
-      "sha256": "4016b39f3956c1782c301861595db79968ab797baf053116ae77e1c3ec72030e",
+      "image": "images/final-2026-11-09/17-artist-after-back.png",
+      "sha256": "d7a68cd7190ed4943c0933d9587ffa9a8fd9bb301351166fceb6e6b1f7cdc5bc",
       "dimensions_px": {
         "width": 390,
         "height": 844
       },
       "kind": "screenshot",
-      "capture_date": "2026-10-07",
+      "capture_date": "2026-11-09",
       "capture_url": "https://busk.town/artists/new-jiew",
       "viewport_css_px": {
         "width": 390,
         "height": 844
       },
-      "capture_metadata": "evidence/2026-10-07-recheck.json"
+      "capture_metadata": "evidence/2026-11-09-live-recheck.json"
     },
     {
-      "image": "images/29-youtube-below-chart.jpg",
-      "sha256": "d7665f54bf4f38bfdcb93441d184767da523e45e3083b97b53b3ef4e9c132f34",
+      "image": "images/final-2026-11-09/11-video-below-chart.png",
+      "sha256": "4056e61378120c623f8318481b7baa1c40990a929d1936ede15478479bbc4985",
       "dimensions_px": {
-        "width": 780,
-        "height": 1688
+        "width": 393,
+        "height": 852
       },
       "kind": "screenshot",
-      "first_added_to_repository": "2026-11-09T17:43:18+07:00",
-      "sources": [],
-      "provenance_note": "Added on 9 November 2026; exact capture time was not separately logged. Shows the video below the chord guide."
+      "capture_date": "2026-11-09",
+      "capture_url": "https://busk.town/songs/%E0%B8%A3%E0%B8%AD-masha",
+      "viewport_css_px": {
+        "width": 393,
+        "height": 852
+      },
+      "capture_metadata": "evidence/2026-11-09-live-recheck.json"
     },
     {
       "image": "images/32-pip-mockup.jpg",
@@ -230,5 +248,6 @@
       ],
       "provenance_note": "Composite illustration made from the chart and video screenshots; labelled Proposed. Not a live feature capture."
     }
-  ]
+  ],
+  "live_capture_manifest": "evidence/2026-11-09-live-recheck.json"
 }

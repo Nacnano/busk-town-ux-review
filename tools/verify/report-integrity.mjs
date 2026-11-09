@@ -49,8 +49,10 @@ function checkImages(entries, label) {
 
 checkLinks(root);
 const original = JSON.parse(read("evidence/2026-10-07-recheck.json"));
+const live = JSON.parse(read("evidence/2026-11-09-live-recheck.json"));
 const final = JSON.parse(read("evidence/2026-11-09-final-audit.json"));
 checkImages(original, "October captures");
+checkImages(live, "November live captures");
 checkImages(final.images, "Published images");
 const published = [...read("README.md").matchAll(/<img\b[^>]*src="([^"]+)"/g)].map((match) => match[1]);
 const recorded = new Set(final.images.map((entry) => entry.image));
@@ -60,5 +62,5 @@ if (errors.length) {
   console.error(errors.join("\n"));
   process.exitCode = 1;
 } else {
-  console.log(`PASS: all local links, ${original.length} original capture hashes and ${published.length} published image hashes; publication coverage is complete.`);
+  console.log(`PASS: all local links, ${original.length} original capture hashes, ${live.length} fresh capture hashes and ${published.length} published image hashes; publication coverage is complete.`);
 }

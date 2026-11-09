@@ -16,6 +16,6 @@ If you're adding something new, a few things I'd actually use: tapping the tempo
 
 Thank you again for the work that's already in the charts.
 
-Observations collected in October–November 2026 in a phone-width desktop browser, without an account. Evidence and wording reviewed on 9 November 2026.
+Checked in a phone-width desktop browser, without an account. Rechecked live and finalized on 9 November 2026.
 
 Screenshots and suggestions: [full feedback](README.md). [Reproduction notes and verification limits](TESTING.md).

@@ -1,0 +1,671 @@
+[
+  {
+    "image": "images/final-2026-11-09/01-song-top.png",
+    "captured_at": "2026-11-09T12:31:31.079Z",
+    "steps": "Open รอ at the top, original E, 393×852 desktop browser.",
+    "url": "https://busk.town/songs/%E0%B8%A3%E0%B8%AD-masha",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scroll": {
+      "x": 0,
+      "y": 0
+    },
+    "sha256": "67c5ebb0a2cacd77b5535676a7e9e808d2940c4bd35ae1c985356650591f93f9",
+    "date": "2026-11-09",
+    "browser": "Chrome 156 on macOS; desktop browser at phone width",
+    "device_pixel_ratio": 1
+  },
+  {
+    "image": "images/final-2026-11-09/02-ad-close-dialog.png",
+    "captured_at": "2026-11-09T12:42:17.151Z",
+    "steps": "Click the advertisement X. The settled Remove Ad dialog asks for contact via LINE; the ad is not dismissed.",
+    "url": "https://busk.town/songs/%E0%B8%A3%E0%B8%AD-masha",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scroll": {
+      "x": 0,
+      "y": 0
+    },
+    "sha256": "a3b94423ff26f469535f54ebbc3ff0324159b1c9d614af1fa0230f53fa078387",
+    "date": "2026-11-09",
+    "browser": "Chrome 156 on macOS; desktop browser at phone width",
+    "device_pixel_ratio": 1
+  },
+  {
+    "image": "images/final-2026-11-09/03-chart-settings.png",
+    "captured_at": "2026-11-09T12:42:17.688Z",
+    "steps": "Inspect the chart tools. Full layout, True chords, default medium font and section names are enabled; metronome sound is off. No display settings changed.",
+    "url": "https://busk.town/songs/%E0%B8%A3%E0%B8%AD-masha",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scroll": {
+      "x": 0,
+      "y": 0
+    },
+    "settings": {
+      "layout-mode": "\"full\"",
+      "content-mode": "\"true-chord\"",
+      "font-size": "\"m\"",
+      "song-section-name-mode": "\"show\"",
+      "metronome-sound-mode": "\"off\""
+    },
+    "sha256": "cec37319b16a7c572761603930ac90be2ecd26c238d36fb848097265a8e033ff",
+    "date": "2026-11-09",
+    "browser": "Chrome 156 on macOS; desktop browser at phone width",
+    "device_pixel_ratio": 1
+  },
+  {
+    "image": "images/final-2026-11-09/04-key-after-reload.png",
+    "captured_at": "2026-11-09T12:34:04.864Z",
+    "steps": "Select C (-4) and reload the song. The toolbar and transposed chords remain in C.",
+    "url": "https://busk.town/songs/%E0%B8%A3%E0%B8%AD-masha",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scroll": {
+      "x": 0,
+      "y": 0
+    },
+    "sha256": "1c56d67d430a081d96839d9a4291ae1020eb8bf2d2357211799fab68b531b4c4",
+    "date": "2026-11-09",
+    "browser": "Chrome 156 on macOS; desktop browser at phone width",
+    "device_pixel_ratio": 1
+  },
+  {
+    "image": "images/final-2026-11-09/05-key-after-reopen.png",
+    "captured_at": "2026-11-09T12:34:37.211Z",
+    "steps": "Close the song tab and reopen its URL in another tab in the same browser profile. C (-4) persists. A full browser restart was not tested.",
+    "url": "https://busk.town/songs/%E0%B8%A3%E0%B8%AD-masha",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scroll": {
+      "x": 0,
+      "y": 0
+    },
+    "sha256": "a6bb7d900a7097fe0bf941cc32a5d03707650b7870f9e137c14dded65c5de0e9",
+    "date": "2026-11-09",
+    "browser": "Chrome 156 on macOS; desktop browser at phone width",
+    "device_pixel_ratio": 1
+  },
+  {
+    "image": "images/final-2026-11-09/06-prehook-clipped.png",
+    "captured_at": "2026-11-09T12:34:54.136Z",
+    "steps": "At original E, Full/True, default medium font, scroll to the first Pre-Hook. The final Bsus4 extends beyond the right edge.",
+    "url": "https://busk.town/songs/%E0%B8%A3%E0%B8%AD-masha",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scroll": {
+      "x": 0,
+      "y": 629.5
+    },
+    "measurement": {
+      "text": "| F#m7           |  E/G#               |  Asus2                     | Bsus4 | Bsus4 |",
+      "rect": {
+        "left": 20,
+        "right": 373,
+        "width": 353
+      },
+      "font": "12px",
+      "ancestors": [
+        {
+          "tag": "P",
+          "cls": "",
+          "width": 353,
+          "scrollWidth": 384,
+          "scrollLeft": 0,
+          "overflow": "visible"
+        },
+        {
+          "tag": "DIV",
+          "cls": "",
+          "width": 353,
+          "scrollWidth": 384,
+          "scrollLeft": 0,
+          "overflow": "visible"
+        },
+        {
+          "tag": "DIV",
+          "cls": "mx-5 w-[calc(100vw-40px)] md:mx-[60px] md:w-[calc(100vw-120px)] md:max-w-[1024px] min-[1144px]:mx-auto min-[1144px]:w-[1024px]",
+          "width": 353,
+          "scrollWidth": 384,
+          "scrollLeft": 0,
+          "overflow": "visible"
+        },
+        {
+          "tag": "SECTION",
+          "cls": " break-inside-avoid outline-4 outline-mt-600 even:bg-neutral-50 dark:outline-mt-dark-600 even:dark:bg-neutral-750 py-4",
+          "width": 393,
+          "scrollWidth": 404,
+          "scrollLeft": 0,
+          "overflow": "visible"
+        },
+        {
+          "tag": "MAIN",
+          "cls": "text-song-primary-3 md:text-song-primary-3-desktop w-max min-w-full max-w-2xl select-text font-bj text-neutral-800 selection:bg-mt-700 selection:text-neutral-0 dark:text-neutral-100 dark:selection:bg-mt-dark-700 sm:w-auto md:max-w-none",
+          "width": 393,
+          "scrollWidth": 404,
+          "scrollLeft": 0,
+          "overflow": "visible"
+        },
+        {
+          "tag": "DIV",
+          "cls": "overflow-x-auto pt-4",
+          "width": 393,
+          "scrollWidth": 404,
+          "scrollLeft": 0,
+          "overflow": "auto"
+        }
+      ]
+    },
+    "sha256": "8c684422feeb64ecf4d7c040fd9d7508ad6e4ccedc31a087779c6489b83924c2",
+    "date": "2026-11-09",
+    "browser": "Chrome 156 on macOS; desktop browser at phone width",
+    "device_pixel_ratio": 1
+  },
+  {
+    "image": "images/final-2026-11-09/07-prehook-after-sideways-scroll.png",
+    "captured_at": "2026-11-09T12:35:35.721Z",
+    "steps": "Scroll the chart's horizontal overflow container to its right edge. The end of the Pre-Hook chord row is revealed; no physical swipe was tested.",
+    "url": "https://busk.town/songs/%E0%B8%A3%E0%B8%AD-masha",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scroll": {
+      "x": 0,
+      "y": 629.5
+    },
+    "measurement": {
+      "scrollLeft": 10.5,
+      "clientWidth": 393,
+      "scrollWidth": 404
+    },
+    "sha256": "e7f65b903d3183a95b7637ed7fc13403067491631a0ebacff1a3ea7c883397c9",
+    "date": "2026-11-09",
+    "browser": "Chrome 156 on macOS; desktop browser at phone width",
+    "device_pixel_ratio": 1
+  },
+  {
+    "image": "images/final-2026-11-09/08-bridge-overlap.png",
+    "captured_at": "2026-11-09T12:35:35.687Z",
+    "steps": "Choose Bridge in the section menu, then scroll back until the last Verse 2 chord sits below the floating label. Their bounds overlap.",
+    "url": "https://busk.town/songs/%E0%B8%A3%E0%B8%AD-masha",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scroll": {
+      "x": 0,
+      "y": 1068.5
+    },
+    "measurement": {
+      "label": {
+        "left": 290.453125,
+        "top": 76,
+        "right": 373,
+        "bottom": 104
+      },
+      "chord": {
+        "left": 20,
+        "top": 80.21875,
+        "right": 373,
+        "bottom": 93.4140625
+      },
+      "lyric": {
+        "left": 20,
+        "top": 93.4140625,
+        "right": 373,
+        "bottom": 113.8125
+      }
+    },
+    "sha256": "49c092fd72d957bd5f89575f5d5f2660552fa38c9c2cea1675c2bc46c0c16324",
+    "date": "2026-11-09",
+    "browser": "Chrome 156 on macOS; desktop browser at phone width",
+    "device_pixel_ratio": 1
+  },
+  {
+    "image": "images/final-2026-11-09/09-english-lyrics-clipped.png",
+    "captured_at": "2026-11-09T12:36:14.447Z",
+    "steps": "Open the song at original key, Full/True/default medium font and 390×844. Capture lyric lines continuing past the right edge.",
+    "url": "https://busk.town/songs/there-s-no-gettin-over-me",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "scroll": {
+      "x": 0,
+      "y": 1192.5
+    },
+    "measurement": {
+      "title": "(There's) No Gettin' Over Me",
+      "settings": {
+        "layout-mode": "\"full\"",
+        "content-mode": "\"true-chord\"",
+        "font-size": "\"m\""
+      },
+      "overflowLines": [
+        {
+          "left": 20,
+          "width": 350,
+          "scrollWidth": 422,
+          "pastRightEdge": 52,
+          "font": "12px",
+          "overflow_sample_index": 1
+        },
+        {
+          "left": 20,
+          "width": 350,
+          "scrollWidth": 467,
+          "pastRightEdge": 97,
+          "font": "12px",
+          "overflow_sample_index": 2
+        },
+        {
+          "left": 20,
+          "width": 350,
+          "scrollWidth": 403,
+          "pastRightEdge": 33,
+          "font": "12px",
+          "overflow_sample_index": 3
+        },
+        {
+          "left": 20,
+          "width": 350,
+          "scrollWidth": 489,
+          "pastRightEdge": 119,
+          "font": "12px",
+          "overflow_sample_index": 4
+        },
+        {
+          "left": 20,
+          "width": 350,
+          "scrollWidth": 427,
+          "pastRightEdge": 57,
+          "font": "12px",
+          "overflow_sample_index": 5
+        },
+        {
+          "left": 20,
+          "width": 350,
+          "scrollWidth": 455,
+          "pastRightEdge": 85,
+          "font": "12px",
+          "overflow_sample_index": 6
+        },
+        {
+          "left": 20,
+          "width": 350,
+          "scrollWidth": 492,
+          "pastRightEdge": 122,
+          "font": "12px",
+          "overflow_sample_index": 7
+        },
+        {
+          "left": 20,
+          "width": 350,
+          "scrollWidth": 411,
+          "pastRightEdge": 41,
+          "font": "12px",
+          "overflow_sample_index": 8
+        }
+      ],
+      "overflow_line_count": 8
+    },
+    "sha256": "88e932f702d08ecb886335d0591d0645c1620a1999d37847cf8f38487c769052",
+    "date": "2026-11-09",
+    "browser": "Chrome 156 on macOS; desktop browser at phone width",
+    "device_pixel_ratio": 1
+  },
+  {
+    "image": "images/final-2026-11-09/10-thai-lyrics-clipped.png",
+    "captured_at": "2026-11-09T12:36:15.667Z",
+    "steps": "Open the song at original key, Full/True/default medium font and 390×844. Capture lyric lines continuing past the right edge.",
+    "url": "https://busk.town/songs/%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%9A%E0%B9%83%E0%B8%88%E0%B9%83%E0%B8%AA%E0%B9%88-%E0%B8%81%E0%B8%B8%E0%B8%8D%E0%B9%81%E0%B8%88",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "scroll": {
+      "x": 0,
+      "y": 490.5
+    },
+    "measurement": {
+      "title": "(เก็บใจใส่) กุญแจ",
+      "settings": {
+        "layout-mode": "\"full\"",
+        "content-mode": "\"true-chord\"",
+        "font-size": "\"m\""
+      },
+      "overflowLines": [
+        {
+          "left": 20,
+          "width": 350,
+          "scrollWidth": 423,
+          "pastRightEdge": 53,
+          "font": "12px",
+          "overflow_sample_index": 1
+        },
+        {
+          "left": 20,
+          "width": 350,
+          "scrollWidth": 456,
+          "pastRightEdge": 86,
+          "font": "12px",
+          "overflow_sample_index": 2
+        },
+        {
+          "left": 20,
+          "width": 350,
+          "scrollWidth": 436,
+          "pastRightEdge": 66,
+          "font": "12px",
+          "overflow_sample_index": 3
+        },
+        {
+          "left": 20,
+          "width": 350,
+          "scrollWidth": 462,
+          "pastRightEdge": 92,
+          "font": "12px",
+          "overflow_sample_index": 4
+        },
+        {
+          "left": 20,
+          "width": 350,
+          "scrollWidth": 419,
+          "pastRightEdge": 49,
+          "font": "12px",
+          "overflow_sample_index": 5
+        },
+        {
+          "left": 20,
+          "width": 350,
+          "scrollWidth": 462,
+          "pastRightEdge": 92,
+          "font": "12px",
+          "overflow_sample_index": 6
+        },
+        {
+          "left": 20,
+          "width": 350,
+          "scrollWidth": 436,
+          "pastRightEdge": 66,
+          "font": "12px",
+          "overflow_sample_index": 7
+        },
+        {
+          "left": 20,
+          "width": 350,
+          "scrollWidth": 462,
+          "pastRightEdge": 92,
+          "font": "12px",
+          "overflow_sample_index": 8
+        },
+        {
+          "left": 20,
+          "width": 350,
+          "scrollWidth": 436,
+          "pastRightEdge": 66,
+          "font": "12px",
+          "overflow_sample_index": 9
+        },
+        {
+          "left": 20,
+          "width": 350,
+          "scrollWidth": 462,
+          "pastRightEdge": 92,
+          "font": "12px",
+          "overflow_sample_index": 10
+        }
+      ],
+      "overflow_line_count": 10
+    },
+    "sha256": "7a3c7a331c69ad8db92e11ca0d6db3be3ce6ff9c81776518f86147b18a51e7c3",
+    "date": "2026-11-09",
+    "browser": "Chrome 156 on macOS; desktop browser at phone width",
+    "device_pixel_ratio": 1
+  },
+  {
+    "image": "images/final-2026-11-09/11-video-below-chart.png",
+    "captured_at": "2026-11-09T12:36:12.754Z",
+    "steps": "Scroll to the YouTube facade below the chord guide on รอ. Do not start playback or infer touch-seeking behavior.",
+    "url": "https://busk.town/songs/%E0%B8%A3%E0%B8%AD-masha",
+    "viewport": {
+      "width": 393,
+      "height": 852
+    },
+    "scroll": {
+      "x": 0,
+      "y": 4149.5
+    },
+    "sha256": "4056e61378120c623f8318481b7baa1c40990a929d1936ede15478479bbc4985",
+    "date": "2026-11-09",
+    "browser": "Chrome 156 on macOS; desktop browser at phone width",
+    "device_pixel_ratio": 1
+  },
+  {
+    "image": "images/final-2026-11-09/12-carabao-empty.png",
+    "captured_at": "2026-11-09T12:40:33.478Z",
+    "steps": "Use only the dashboard header search and enter carabao. Wait for the matching result state.",
+    "url": "https://busk.town/dashboard",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "scroll": {
+      "x": 0,
+      "y": 0
+    },
+    "search": {
+      "query": "carabao",
+      "result": "ไม่พบเพลงที่ตรงกับการค้นหา\n\nค้นหาใน Google: \"carabao คอร์ด\""
+    },
+    "sha256": "183ef5bebf12fc11df30bee63cfa46d81933ce4db953e36e3404bc0cc8640dd3",
+    "date": "2026-11-09",
+    "browser": "Chrome 156 on macOS; desktop browser at phone width",
+    "device_pixel_ratio": 1
+  },
+  {
+    "image": "images/final-2026-11-09/13-carabao-found.png",
+    "captured_at": "2026-11-09T12:40:33.653Z",
+    "steps": "Use only the dashboard header search and enter คาราบาว. Wait for the matching result state.",
+    "url": "https://busk.town/dashboard",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "scroll": {
+      "x": 0,
+      "y": 0
+    },
+    "search": {
+      "query": "คาราบาว",
+      "result": "Artist: คาราบาว\n\nอเมริโกย\n\nคาราบาว\n\nกำนันผู้ใหญ่บ้าน\n\nคาราบาว\n\nนายกอ\n\nคาราบาว\n\nคนหนังเหนียว\n\nคาราบาว\n\nท.ทหารอดทน\n\nคาราบาว\n\nค้นหาใน Google: \"คาราบาว คอร์ด\""
+    },
+    "sha256": "be0b022853221e087a2aed7d65efa330bc84cedfebf6bb00ddfb906758a12dbf",
+    "date": "2026-11-09",
+    "browser": "Chrome 156 on macOS; desktop browser at phone width",
+    "device_pixel_ratio": 1
+  },
+  {
+    "image": "images/final-2026-11-09/14-newjiew-empty.png",
+    "captured_at": "2026-11-09T12:40:33.991Z",
+    "steps": "Use only the dashboard header search and enter นิวจิ๋ว. Wait for the matching result state.",
+    "url": "https://busk.town/dashboard",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "scroll": {
+      "x": 0,
+      "y": 0
+    },
+    "search": {
+      "query": "นิวจิ๋ว",
+      "result": "ไม่พบเพลงที่ตรงกับการค้นหา\n\nค้นหาใน Google: \"นิวจิ๋ว คอร์ด\""
+    },
+    "sha256": "fa338abd2b74b1f196d1a75dc192119a99f9f0b2155f47128b9c009893be772c",
+    "date": "2026-11-09",
+    "browser": "Chrome 156 on macOS; desktop browser at phone width",
+    "device_pixel_ratio": 1
+  },
+  {
+    "image": "images/final-2026-11-09/15-newjiew-found.png",
+    "captured_at": "2026-11-09T12:40:34.054Z",
+    "steps": "Use only the dashboard header search and enter NEW JIEW. Wait for the matching result state.",
+    "url": "https://busk.town/dashboard",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "scroll": {
+      "x": 0,
+      "y": 0
+    },
+    "search": {
+      "query": "NEW JIEW",
+      "result": "Artist: NEW JIEW\n\nอยากเป็นคนนั้น\n\nNEW JIEW\n\nเสียงอำลา\n\nNEW JIEW\n\nยิ่งลึกซึ้งยิ่งหวั่นไหว\n\nNEW JIEW\n\nทันเวลา\n\nNEW JIEW\n\nตัวจริงไร้ตัวตน\n\nNEW JIEW\n\nค้นหาใน Google: \"NEW JIEW คอร์ด\""
+    },
+    "sha256": "ab9767907f61f3f4f61a7ab1e0aad4b33039b9c14ce67bfbbadaaabad46803c2",
+    "date": "2026-11-09",
+    "browser": "Chrome 156 on macOS; desktop browser at phone width",
+    "device_pixel_ratio": 1
+  },
+  {
+    "image": "images/final-2026-11-09/16-artist-before-song.png",
+    "captured_at": "2026-11-09T12:41:31.082Z",
+    "steps": "On NEW JIEW, filter songs by ไม่รัก and select Date Added before opening ไม่รักไม่ต้อง.",
+    "url": "https://busk.town/artists/new-jiew",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "scroll": {
+      "x": 0,
+      "y": 0
+    },
+    "artistState": {
+      "query": "ไม่รัก",
+      "queryVisible": true,
+      "sort": [
+        "dateAdded"
+      ],
+      "songs": [
+        {
+          "text": "ไม่รักไม่ต้อง NEW JIEW",
+          "href": "https://busk.town/songs/%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87"
+        }
+      ]
+    },
+    "sha256": "96fee5f54569ff685798ab426f11eabeac702a5621d59019cd3fb57a66cea363",
+    "date": "2026-11-09",
+    "browser": "Chrome 156 on macOS; desktop browser at phone width",
+    "device_pixel_ratio": 1
+  },
+  {
+    "image": "images/final-2026-11-09/17-artist-after-back.png",
+    "captured_at": "2026-11-09T12:41:31.883Z",
+    "steps": "Use browser history Back after opening the filtered song. The search collapses/clears and Title is selected again.",
+    "url": "https://busk.town/artists/new-jiew",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "scroll": {
+      "x": 0,
+      "y": 0
+    },
+    "artistState": {
+      "query": "",
+      "queryVisible": false,
+      "sort": [
+        "title"
+      ],
+      "songs": [
+        {
+          "text": "กลัวความใกล้ NEW JIEW",
+          "href": "https://busk.town/songs/%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%A7%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%83%E0%B8%81%E0%B8%A5%E0%B9%89"
+        },
+        {
+          "text": "เก็บคำว่ารัก (ไว้ใช้ที่อื่น) NEW JIEW",
+          "href": "https://busk.town/songs/%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%9A%E0%B8%84%E0%B8%B3%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B9%84%E0%B8%A7%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B8%B7%E0%B9%88%E0%B8%99"
+        },
+        {
+          "text": "คนเจ้าน้ำตา NEW JIEW",
+          "href": "https://busk.town/songs/%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%95%E0%B8%B2"
+        },
+        {
+          "text": "จมน้ำตา - OST.มณีพยาบาท NEW JIEW",
+          "href": "https://busk.town/songs/%E0%B8%88%E0%B8%A1%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%95%E0%B8%B2-ost-%E0%B8%A1%E0%B8%93%E0%B8%B5%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%97"
+        },
+        {
+          "text": "ฉันก็รักของฉัน NEW JIEW",
+          "href": "https://busk.town/songs/%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B8%81%E0%B9%87%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%89%E0%B8%B1%E0%B8%99"
+        },
+        {
+          "text": "ตัวจริงไร้ตัวตน NEW JIEW",
+          "href": "https://busk.town/songs/%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%95%E0%B8%99"
+        },
+        {
+          "text": "ถ้าไม่ฟังจะถามทำไม NEW JIEW",
+          "href": "https://busk.town/songs/%E0%B8%96%E0%B9%89%E0%B8%B2%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%9F%E0%B8%B1%E0%B8%87%E0%B8%88%E0%B8%B0%E0%B8%96%E0%B8%B2%E0%B8%A1%E0%B8%97%E0%B8%B3%E0%B9%84%E0%B8%A1"
+        },
+        {
+          "text": "ทันเวลา NEW JIEW",
+          "href": "https://busk.town/songs/%E0%B8%97%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2"
+        },
+        {
+          "text": "ทำไมต้องรัก NEW JIEW",
+          "href": "https://busk.town/songs/%E0%B8%97%E0%B8%B3%E0%B9%84%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81"
+        },
+        {
+          "text": "ไม่รักไม่ต้อง NEW JIEW",
+          "href": "https://busk.town/songs/%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87"
+        },
+        {
+          "text": "ไม่รู้ตัว NEW JIEW",
+          "href": "https://busk.town/songs/%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%95%E0%B8%B1%E0%B8%A7"
+        },
+        {
+          "text": "ยิ่งลึกซึ้งยิ่งหวั่นไหว NEW JIEW",
+          "href": "https://busk.town/songs/%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%8B%E0%B8%B6%E0%B9%89%E0%B8%87%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%84%E0%B8%AB%E0%B8%A7"
+        },
+        {
+          "text": "รอแล้วได้อะไร NEW JIEW",
+          "href": "https://busk.town/songs/%E0%B8%A3%E0%B8%AD%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3"
+        },
+        {
+          "text": "เรื่องนี้ต้องเห็นแก่ตัว NEW JIEW",
+          "href": "https://busk.town/songs/%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%95%E0%B8%B1%E0%B8%A7"
+        },
+        {
+          "text": "เสียงอำลา NEW JIEW",
+          "href": "https://busk.town/songs/%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%AD%E0%B8%B3%E0%B8%A5%E0%B8%B2"
+        },
+        {
+          "text": "อยากเป็นคนนั้น NEW JIEW",
+          "href": "https://busk.town/songs/%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%84%E0%B8%99%E0%B8%99%E0%B8%B1%E0%B9%89%E0%B8%99-newjiew"
+        },
+        {
+          "text": "อย่าเอาความเหงามาลงที่ฉัน NEW JIEW",
+          "href": "https://busk.town/songs/%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%AD%E0%B8%B2%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AB%E0%B8%87%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%89%E0%B8%B1%E0%B8%99"
+        }
+      ]
+    },
+    "sha256": "d7a68cd7190ed4943c0933d9587ffa9a8fd9bb301351166fceb6e6b1f7cdc5bc",
+    "date": "2026-11-09",
+    "browser": "Chrome 156 on macOS; desktop browser at phone width",
+    "device_pixel_ratio": 1
+  }
+]

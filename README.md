@@ -12,7 +12,7 @@ I tried the charts at phone width, the way I'd read them at rehearsal, and had a
 
 The chart itself is easy to read. At phone width, a large ad sits above it, so the title and the first chords begin further down. When a friend sends me a link during practice, it would help if the song were the first thing on the screen. When I tried the X in the ad's corner, it opened a note about removing ads through LINE rather than hiding the ad. The ad could live a little further down the page.
 
-<img src="images/recheck-performance-01-phone-song-top.jpg" alt="Phone view of รอ with an advertisement above the title and chords" width="280">
+<img src="images/final-2026-11-09/01-song-top.png" alt="Phone view of รอ with an advertisement above the title and chords" width="280">
 
 ## Some lines run past the edge of the phone
 
@@ -42,11 +42,11 @@ The section menu is handy for jumping around a long song. While I was reading *�
 
 In the header search on the [dashboard](https://busk.town/dashboard), a few artists I know by another spelling didn't come up. `carabao` was empty, while `คาราบาว` found the artist and the songs. The other way around as well: `นิวจิ๋ว` was empty, and `NEW JIEW` worked. I nearly assumed those songs weren't there. Matching the Thai name and the English name would help.
 
-<img src="images/recheck-journeys-01-carabao-alias-fails.jpg" alt="Search for carabao returns no songs" width="240"> <img src="images/recheck-journeys-02-carabao-canonical-works.jpg" alt="Search for คาราบาว finds the artist and songs" width="240">
+<img src="images/final-2026-11-09/12-carabao-empty.png" alt="Search for carabao returns no songs" width="240"> <img src="images/final-2026-11-09/13-carabao-found.png" alt="Search for คาราบาว finds the artist and songs" width="240">
 
 `carabao` is empty. `คาราบาว` works.
 
-<img src="images/recheck-journeys-03-newjiew-thai-alias-fails.jpg" alt="Search for นิวจิ๋ว returns no songs" width="240"> <img src="images/recheck-journeys-04-newjiew-canonical-works.jpg" alt="Search for NEW JIEW finds the artist and songs" width="240">
+<img src="images/final-2026-11-09/14-newjiew-empty.png" alt="Search for นิวจิ๋ว returns no songs" width="240"> <img src="images/final-2026-11-09/15-newjiew-found.png" alt="Search for NEW JIEW finds the artist and songs" width="240">
 
 `นิวจิ๋ว` is empty. `NEW JIEW` works.
 
@@ -54,7 +54,7 @@ In the header search on the [dashboard](https://busk.town/dashboard), a few arti
 
 On the [NEW JIEW artist page](https://busk.town/artists/new-jiew), I searched `ไม่รัก`, sorted by Date Added, opened *ไม่รักไม่ต้อง*, and used browser Back. The search had cleared, and the full song list was back, sorted by Title. If the search and the sort could stay as they were, comparing songs for a set would be a little easier.
 
-<img src="images/recheck-journeys-06-before-song-query-and-date-added.jpg" alt="NEW JIEW songs filtered by ไม่รัก and sorted by Date Added" width="240"> <img src="images/recheck-journeys-07-after-back-query-lost-title-sort.jpg" alt="After Back, the search is cleared and the list is sorted by Title" width="240">
+<img src="images/final-2026-11-09/16-artist-before-song.png" alt="NEW JIEW songs filtered by ไม่รัก and sorted by Date Added" width="240"> <img src="images/final-2026-11-09/17-artist-after-back.png" alt="After Back, the search is cleared and the list is sorted by Title" width="240">
 
 ## Tap the tempo
 
@@ -64,7 +64,7 @@ I'd love a tap-tempo control for the metronome. Live, we rarely sit on the recor
 
 The YouTube embed is handy for checking a part by ear. As soon as I scroll down to the chart, the video is off the screen. If it could pop out into a little picture-in-picture window, the chord sheet and the video could stay in view together.
 
-<img src="images/29-youtube-below-chart.jpg" alt="The YouTube video sits at the bottom of the song page, under the chord shapes" width="240"> <img src="images/32-pip-mockup.jpg" alt="A sketch of the video tucked into the corner of the chart while reading Verse 1" width="240">
+<img src="images/final-2026-11-09/11-video-below-chart.png" alt="The YouTube video sits at the bottom of the song page, under the chord shapes" width="240"> <img src="images/32-pip-mockup.jpg" alt="A sketch of the video tucked into the corner of the chart while reading Verse 1" width="240">
 
 In the captured page, the video sits below the chord shapes, away from the chart I'm reading. The second picture is a mockup of the suggestion: a small window in the corner that stays put while the chart scrolls.
 
@@ -74,4 +74,4 @@ When I'm picking out a fast solo, a bass line or a melody, I'd find a dedicated 
 
 Thank you again for the care that's already in these charts. Happy to explain any of this if it would help.
 
-Observations collected in October–November 2026, in a phone-width desktop browser, without an account. Evidence and wording reviewed on 9 November 2026. [Reproduction notes and verification limits](TESTING.md). A shorter copy: [FEEDBACK-SUMMARY.md](FEEDBACK-SUMMARY.md).
+Screenshots from October–November 2026, in a phone-width desktop browser, without an account. Rechecked live and finalized on 9 November 2026. [Reproduction notes and verification limits](TESTING.md). A shorter copy: [FEEDBACK-SUMMARY.md](FEEDBACK-SUMMARY.md).
